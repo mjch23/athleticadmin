@@ -15,7 +15,7 @@ class PrendaController extends Controller
     public function index()
     {
         $prendas=Prenda::orderBy('id_prenda')->paginate(25);        
-        return view('Prenda.index', compact ('prendas')); 
+        return view('prenda.index', compact ('prendas')); 
     }
 
     /**
