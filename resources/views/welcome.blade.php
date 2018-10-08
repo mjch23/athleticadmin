@@ -70,18 +70,20 @@
                     @auth
                         <a href="{{ url('/home') }}">Home</a>
                     @else
-                        <a href="{{ route('login') }}">Ingresar</a>
+                        <a href="{{ route('login') }}">Acceso Clientes</a>
                     @endauth
                 </div>
             @endif
 
             <div class="content">
+                <img src="{{url('/images/IsoLogo@2x.png')}}" class="img-fluid" alt="Responsive image"> 
                 <div class="title m-b-md">
-                    AthleticAdmin
+                    Lorena Farías Fotografía
                 </div>
 
                 <div class="links">
-                    <a href="https://athleticarg.com">Web Athletic Argentina</a>
+
+                    <h1>Muy pronto...</h1>
                 </div>
             </div>
         </div>

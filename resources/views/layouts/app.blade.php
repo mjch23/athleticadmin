@@ -8,7 +8,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <title> <!--{{ config('app.name', 'AthleticAdmin') }}-->
-    AthleticAdmin
+    LFF
     </title>
 
     <!-- Scripts -->
@@ -27,7 +27,7 @@
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
                 <!--    {{ config('app.name', 'AthleticAdmin') }} -->
-                <span class="logo-lg"><b>Athletic</b>Admin</span>
+                <span class="logo-lg"><b>Lorena Farías</b> Fotografía</span>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
@@ -45,9 +45,6 @@
                         @guest
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ route('login') }}">{{ __('Ingresar') }}</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="{{ route('register') }}">{{ __('Registro') }}</a>
                             </li>
                         @else
                             <li class="nav-item dropdown">
