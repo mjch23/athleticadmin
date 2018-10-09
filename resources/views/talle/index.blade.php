@@ -94,6 +94,9 @@
 
    <!-- </div> -->
   </div>
+
+     <div class="container"> {{ $talles->links() }} </div>
+
 </section>
 
 

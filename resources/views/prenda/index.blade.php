@@ -90,6 +90,9 @@
 
    <!-- </div> -->
   </div>
+
+     <div class="container"> {{ $prendas->links() }} </div>
+
 </section>
 
 

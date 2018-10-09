@@ -102,6 +102,9 @@
 
    <!-- </div> -->
   </div>
+
+     <div class="container"> {{ $clientes->links() }} </div>
+
 </section>
 
 

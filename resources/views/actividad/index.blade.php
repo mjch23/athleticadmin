@@ -92,6 +92,9 @@
 
    <!-- </div> -->
   </div>
+
+     <div class="container"> {{ $actividades->links() }} </div>
+
 </section>
 
 

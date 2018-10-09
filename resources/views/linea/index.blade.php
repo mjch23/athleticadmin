@@ -97,6 +97,10 @@
 
    <!-- </div> -->
   </div>
+
+
+     <div class="container"> {{ $lineas->links() }} </div>
+
 </section>
 
 
