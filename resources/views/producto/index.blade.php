@@ -110,7 +110,7 @@
    <!-- </div> -->
   </div>
 
-      {{ $productos->links() }}
+     <div class="container"> {{ $productos->links() }} </div>
 
 </section>
 
