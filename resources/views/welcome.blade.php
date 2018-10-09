@@ -85,7 +85,7 @@
 
                 <div class="links">
                     <h1></i>Muy pronto... mientras tanto, en redes sociales:</h1>
-                    <h1><a href="{{ url('https://www.instagram.com/lorenafariasfotografia/') }}" class="fab fa-facebook-square text-dark"></a>   <a href="{{ url('https://www.facebook.com/lorenafariasfotografia/') }}" class="fab fa-instagram text-dark"></a>   <a href="{{ url('https://twitter.com/LoreFariasFoto') }}" class="fab fa-twitter-square text-dark"></a></h1>
+                    <h1><a href="{{ url('https://www.facebook.com/lorenafariasfotografia/') }}" class="fab fa-facebook-square text-dark"></a>   <a href="{{ url('https://www.instagram.com/lorenafariasfotografia/') }}" class="fab fa-instagram text-dark"></a>   <a href="{{ url('https://twitter.com/LoreFariasFoto') }}" class="fab fa-twitter-square text-dark"></a></h1>
                 </div>
 
             </div>
