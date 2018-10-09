@@ -8,6 +8,8 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
         <!-- Styles -->
         <style>
@@ -82,9 +84,10 @@
                 </div>
 
                 <div class="links">
-
-                    <h1>Muy pronto...</h1>
+                    <h1></i>Muy pronto... mientras tanto, en redes sociales:</h1>
+                    <h1><a href="{{ url('https://www.instagram.com/lorenafariasfotografia/') }}" class="fab fa-facebook-square text-dark"></a>   <a href="{{ url('https://www.facebook.com/lorenafariasfotografia/') }}" class="fab fa-instagram text-dark"></a>   <a href="{{ url('https://twitter.com/LoreFariasFoto') }}" class="fab fa-twitter-square text-dark"></a></h1>
                 </div>
+
             </div>
         </div>
     </body>
