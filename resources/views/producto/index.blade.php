@@ -109,12 +109,16 @@
 
    <!-- </div> -->
   </div>
+
+      {{ $productos->links() }}
+
 </section>
 
 
 <!-- </div> -->
 </div>
 </div>
+
 
 
 @endsection
