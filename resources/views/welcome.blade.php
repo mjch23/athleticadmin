@@ -2,6 +2,17 @@
 <html lang="en">
 
   <head>
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127719121-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127719121-1');
+</script>
+
 
 	<meta name="google-site-verification" content="8VZHxcR60b6cus090D4wAdJ6-6chhxReFFR2Vj6jRp4" />
 
