@@ -336,7 +336,8 @@
       
     <div class="card">
   <div class="card-body">
-    <p class="card-text">Los recién nacidos necesitan estar abrigaditos o tener un ambiente con una temperatura adecuada para trabajar con poquita ropa. Esta sesión la preparamos con tiempo para recibirlos de la mejor manera, se programan de lunes a lunes para que los papás no se queden sin poder asistir. Contactame con tiempo en los primeros dias (antes de la semana) para coordinar. Incluyo los accesorios para las fotos del bebé, vos solo venís, te pones cómodo y disfrutas de un momento, suspiros garantizados.</p>
+    <p class="card-text">….los primeros 13 días de tu bebé son los que recomendamos para hacer este tipo de sesiones; pero podemos hacerlas hasta cerca del mes.
+Incluimos fotos con los papás y hermanos mayores (opcional) y para tu comodidad también los accesorios que usamos durante la sesión; el ambiente esta acondicionado con lo necesario y climatizado para que todo resulte con seguridad y comodidad. CONTACTANOS para coordinar con tiempo la sesión de tu bebé, es una experiencia hermosa y un recuerdo invaluable.</p>
 
   </div>
      <img src="{{url('img/newborn.jpg')}}" class="img-fluid" alt="Responsive image">
@@ -360,7 +361,10 @@
       
     <div class="card">
   <div class="card-body">
-    <p class="card-text"></p>
+    <p class="card-text">quiénes están dentro de niños? 
+bebés desde los 3 meses hasta los 13 años. Esta es una sesión que a excepción de bebés menores de 8 meses, las realizamos en exterior. La duración de la misma es de 40 min a 1 hora. 
+La selección de lugar la elegimos en conjunto, no buscamos sonrisas todo el tiempo, buscamos gestos propios, miradas, risas y la sonrisa que nos quiera regalar, sobre la idea de que el recuerdo sea lo mas fiel posible a la persona que estamos retratando. Los juguetes favoritos son siempre bienvenidos. Recomiendo hacer estas sesiones en cualquier etapa, en una o en todas….
+CONTACTANOS para coordinar una sesión para los tuyos o para regalar.</p>
 
   </div>
      <img src="{{url('img/ninos.jpg')}}" class="img-fluid" alt="Responsive image">
@@ -384,7 +388,7 @@
       
     <div class="card">
   <div class="card-body">
-    <p class="card-text"></p>
+    <p class="card-text">….cumplir 15 es un momento bisagra en la vida… qué mejor que detener el tiempo mil veces en este instante…te ofrezco una sesión relajada, que tenga que ver con vos, tus intereses, tus gustos, tu estilo…la realizamos en exterior (aunque no descartamos el interior), elegimos lugar, vestuario, temática… te damos la opción de vivir un rato de fotos con tus mejores amigas, esas que no pueden faltar…la duración de la sesión es de 2 horas aproximadamente y 1 hora extra si vienen amigas. CONTACTANOS para recibir un presupuesto y planear ese momento tan especial…</p>
 
   </div>
      <img src="{{url('img/quince.jpg')}}" class="img-fluid" alt="Responsive image">
@@ -408,7 +412,14 @@
       
     <div class="card">
   <div class="card-body">
-    <p class="card-text"></p>
+    <p class="card-text">Fiestas de Cumpleaños
+Bautismos
+Eventos Empresariales
+Comuniones
+Graduaciones
+Cierres de fin de año
+Certámenes de danza
+Por lo general se cotiza por hora de acuerdo al tipo de evento y hacemos precios especiales para los cierres de fin de año. CONTACTANOS con tiempo para reservar fechas y armamos un presupuesto a tu medida.</p>
 
   </div>
      <img src="{{url('img/eventos.jpg')}}" class="img-fluid" alt="Responsive image">
