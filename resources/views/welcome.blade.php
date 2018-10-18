@@ -363,7 +363,7 @@ Incluimos fotos con los papás y hermanos mayores (opcional) y para tu comodidad
   <div class="card-body">
     <p class="card-text">¿Quiénes están dentro de niños? 
 bebés desde los 3 meses hasta los 13 años. Esta es una sesión que a excepción de bebés menores de 8 meses, las realizamos en exterior. La duración de la misma es de 40 min a 1 hora. 
-La selección de lugar la elegimos en conjunto, no buscamos sonrisas todo el tiempo, buscamos gestos propios, miradas, risas y la sonrisa que nos quiera regalar, sobre la idea de que el recuerdo sea lo más fiel posible a la persona que estamos retratando. Los juguetes favoritos son siempre bienvenidos. Recomiendo hacer estas sesiones en cualquier etapa, en una o en todas….
+La selección de lugar la elegimos en conjunto, no buscamos sonrisas todo el tiempo, buscamos gestos propios, miradas, risas y la sonrisa que nos quiera regalar, porque la idea es que el recuerdo sea lo más fiel posible a la persona que estamos retratando. Los juguetes favoritos son siempre bienvenidos. Recomiendo hacer estas sesiones en cualquier etapa, en una o en todas….
 CONTACTANOS para coordinar una sesión para los tuyos o para regalar.</p>
 
   </div>
