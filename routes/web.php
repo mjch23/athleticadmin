@@ -32,6 +32,9 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
+Route::post('send', ['as' => 'send', 'uses' => 'MailController@send'] );
+Route::get('contact', ['as' => 'contact', 'uses' => 'MailController@index'] );
+
 
 Route::get('cliente/index','ClienteController@index')->name('cliente');
 Route::post('/cliente/{id}', 'ClienteController@update')->name('cliente.update'); //Formulario Actualizar

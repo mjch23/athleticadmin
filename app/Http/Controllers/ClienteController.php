@@ -14,7 +14,9 @@ class ClienteController extends Controller
      */
     public function index()
     {
-        $clientes=Cliente::orderBy('id')->paginate(25);        
+        $clientes=Cliente::where('inactivo',NULL)
+        ->orderBy('id')
+        ->paginate(25);        
         return view('clientes.index', compact ('clientes')); 
     }
 
@@ -95,7 +97,9 @@ class ClienteController extends Controller
      */
     public function destroy($id)
     {
-        Cliente::find($id)->delete();
+        $cliente=Cliente::find($id);
+        $cliente->inactivo='1';
+        $cliente->save();
         return redirect()->route('cliente.index')->with('success','Registro eliminado satisfactoriamente');
          //
     }

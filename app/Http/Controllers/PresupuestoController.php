@@ -27,7 +27,8 @@ class PresupuestoController extends Controller
          $presupuestos = DB::table('presupuesto')
             ->join('clientes', 'presupuesto.id_cliente', '=', 'clientes.id')
             ->select('*')
-            ->orderBy('id_presupuesto')
+            ->where('presupuesto.inactivo',NULL)
+            ->orderBy('id_presupuesto','DESC')
             ->get();
 
 
@@ -47,6 +48,7 @@ class PresupuestoController extends Controller
 
             $clientes = DB::table('clientes')
             ->select('*')
+            ->where('inactivo',NULL)
             ->orderBy('id')
             ->get();
 
@@ -165,7 +167,9 @@ class PresupuestoController extends Controller
      */
     public function destroy($id)
     {
-        Presupuesto::find($id)->delete();
+        $presupuesto=Presupuesto::find($id);
+        $presupuesto->inactivo='1';
+        $presupuesto->save();
         return redirect()->route('presupuesto.index')->with('success','Registro eliminado satisfactoriamente');
          //
     }
