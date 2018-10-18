@@ -172,7 +172,7 @@
                   <p class="mb-0">Las Conejos de Nunny Galletti, puro talento</p>
                 </span>
               </span>
-              <img class="img-fluid" src="img/portfolio-2.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio-2.JPG" alt="">
             </a>
           </div>
           <div class="col-lg-6">
@@ -183,7 +183,7 @@
                   <p class="mb-0">Momentos únicos en el Balneario de Almafuerte</p>
                 </span>
               </span>
-              <img class="img-fluid" src="img/portfolio-3.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio-3.JPG" alt="">
             </a>
           </div>
           <div class="col-lg-6">
@@ -194,7 +194,7 @@
                   <p class="mb-0">Ojitos abiertos explorando el nuevo mundo</p>
                 </span>
               </span>
-              <img class="img-fluid" src="img/portfolio-4.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio-4.JPG" alt="">
             </a>
           </div>
           <div class="col-lg-6">
@@ -205,7 +205,7 @@
                   <p class="mb-0">Sesión previa al Casamiento</p>
                 </span>
               </span>
-              <img class="img-fluid" src="img/portfolio-5.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio-5.JPG" alt="">
             </a>
           </div>
           <div class="col-lg-6">
@@ -216,7 +216,7 @@
                   <p class="mb-0">Sol, naturaleza y amor en una sola foto</p>
                 </span>
               </span>
-              <img class="img-fluid" src="img/portfolio-6.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio-6.JPG" alt="">
             </a>
           </div>
 
@@ -458,7 +458,7 @@ Por lo general se cotiza por hora de acuerdo al tipo de evento y hacemos precios
       
     <div class="card">
   <div class="card-body">
-    <img src="{{url('img/portfolio-2.jpg')}}" class="img-fluid" alt="Responsive image">
+    <img src="{{url('img/portfolio-2.JPG')}}" class="img-fluid" alt="Responsive image">
   </div>
  
 </div>
@@ -474,7 +474,7 @@ Por lo general se cotiza por hora de acuerdo al tipo de evento y hacemos precios
       
     <div class="card">
   <div class="card-body">
-    <img src="{{url('img/portfolio-3.jpg')}}" class="img-fluid" alt="Responsive image">
+    <img src="{{url('img/portfolio-3.JPG')}}" class="img-fluid" alt="Responsive image">
   </div>
  
 </div>
@@ -490,7 +490,7 @@ Por lo general se cotiza por hora de acuerdo al tipo de evento y hacemos precios
       
     <div class="card">
   <div class="card-body">
-    <img src="{{url('img/portfolio-4.jpg')}}" class="img-fluid" alt="Responsive image">
+    <img src="{{url('img/portfolio-4.JPG')}}" class="img-fluid" alt="Responsive image">
   </div>
  
 </div>
@@ -506,7 +506,7 @@ Por lo general se cotiza por hora de acuerdo al tipo de evento y hacemos precios
       
     <div class="card">
   <div class="card-body">
-    <img src="{{url('img/portfolio-5.jpg')}}" class="img-fluid" alt="Responsive image">
+    <img src="{{url('img/portfolio-5.JPG')}}" class="img-fluid" alt="Responsive image">
   </div>
  
 </div>
@@ -522,7 +522,7 @@ Por lo general se cotiza por hora de acuerdo al tipo de evento y hacemos precios
       
     <div class="card">
   <div class="card-body">
-    <img src="{{url('img/portfolio-6.jpg')}}" class="img-fluid" alt="Responsive image">
+    <img src="{{url('img/portfolio-6.JPG')}}" class="img-fluid" alt="Responsive image">
   </div>
  
 </div>
