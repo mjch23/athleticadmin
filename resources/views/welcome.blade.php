@@ -39,7 +39,7 @@
           <a class="js-scroll-trigger" href="#page-top">Inicio</a>
         </li>
         <li class="sidebar-nav-item">
-          <a class="js-scroll-trigger" href="#about">Acerca de LFF</a>
+          <a class="js-scroll-trigger" href="#sobremi">Acerca de LFF</a>
         </li>
         <li class="sidebar-nav-item">
           <a class="js-scroll-trigger" href="#services">Servicios</a>
@@ -63,13 +63,13 @@
         <h3 class="mb-5 text-white">
           <em>Almafuerte, Córdoba - Argentina</em>
         </h3>
-        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Ingresá</a>
+        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#sobremi">Sobre mí</a>
       </div>
       <div class="overlay"></div>
     </header>
 
-    <!-- About -->
-    <section class="content-section bg-light" id="about">
+    <!-- Sobre Mi -->
+    <section class="content-section bg-light" id="sobremi">
       <div class="container text-center">
         <div class="row">
           <div class="col-lg-10 mx-auto">
@@ -129,7 +129,7 @@
             <h4>
               <strong>Eventos</strong>
             </h4>
-            <p class="text-faded mb-0">Torneos de Danza, eventos deportivos, Casamientos, actos escolares y más</p>
+            <p class="text-faded mb-0">Torneos de Danza, Eventos Deportivos, Casamientos, Actos Escolares y más</p>
           </div>
         </div>
       </div>
@@ -138,7 +138,7 @@
     <!-- Callout -->
     <section class="callout">
       <div class="container text-center">
-        <h2 class="mx-auto mb-5 text-white">Pedinos
+        <h2 class="mx-auto mb-5 text-white"  href="#contact">Pedinos
           <em>tu</em>
           sesión</h2>
      <!--  <a class="btn btn-primary btn-xl" href="https://startbootstrap.com/template-overviews/stylish-portfolio/">Download Now!</a> -->
@@ -362,7 +362,7 @@ Incluimos fotos con los papás y hermanos mayores (opcional) y para tu comodidad
     <div class="card">
   <div class="card-body">
     <p class="card-text">¿Quiénes están dentro de niños? 
-bebés desde los 3 meses hasta los 13 años. Esta es una sesión que a excepción de bebés menores de 8 meses, las realizamos en exterior. La duración de la misma es de 40 min a 1 hora. 
+Bebés desde los 3 meses hasta los 13 años. Esta es una sesión que a excepción de bebés menores de 8 meses, las realizamos en exterior. La duración de la misma es de 40 min a 1 hora. 
 La selección de lugar la elegimos en conjunto, no buscamos sonrisas todo el tiempo, buscamos gestos propios, miradas, risas y la sonrisa que nos quiera regalar, porque la idea es que el recuerdo sea lo más fiel posible a la persona que estamos retratando. Los juguetes favoritos son siempre bienvenidos. Recomiendo hacer estas sesiones en cualquier etapa, en una o en todas….
 CONTACTANOS para coordinar una sesión para los tuyos o para regalar.</p>
 
