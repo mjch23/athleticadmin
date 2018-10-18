@@ -388,7 +388,7 @@ CONTACTANOS para coordinar una sesión para los tuyos o para regalar.</p>
       
     <div class="card">
   <div class="card-body">
-    <p class="card-text">….cumplir 15 es un momento bisagra en la vida… qué mejor que detener el tiempo mil veces en este instante…te ofrezco una sesión relajada, que tenga que ver con vos, tus intereses, tus gustos, tu estilo…la realizamos en exterior (aunque no descartamos el interior), elegimos lugar, vestuario, temática… te damos la opción de vivir un rato de fotos con tus mejores amigas, esas que no pueden faltar…la duración de la sesión es de 2 horas aproximadamente y 1 hora extra si vienen amigas. CONTACTANOS para recibir un presupuesto y planear ese momento tan especial…</p>
+    <p class="card-text">Cumplir 15 es un momento bisagra en la vida… qué mejor que detener el tiempo mil veces en este instante…te ofrezco una sesión relajada, que tenga que ver con vos, tus intereses, tus gustos, tu estilo…la realizamos en exterior (aunque no descartamos el interior), elegimos lugar, vestuario, temática… te damos la opción de vivir un rato de fotos con tus mejores amigas, esas que no pueden faltar…la duración de la sesión es de 2 horas aproximadamente y 1 hora extra si vienen amigas. CONTACTANOS para recibir un presupuesto y planear ese momento tan especial…</p>
 
   </div>
      <img src="{{url('img/quince.jpg')}}" class="img-fluid" alt="Responsive image">
@@ -412,13 +412,13 @@ CONTACTANOS para coordinar una sesión para los tuyos o para regalar.</p>
       
     <div class="card">
   <div class="card-body">
-    <p class="card-text">Fiestas de Cumpleaños
-Bautismos
-Eventos Empresariales
-Comuniones
-Graduaciones
-Cierres de fin de año
-Certámenes de danza
+    <p class="card-text">Fiestas de Cumpleaños, 
+Bautismos, 
+Eventos Empresariales, 
+Comuniones, 
+Graduaciones, 
+Cierres de fin de año, 
+Certámenes de danza. 
 Por lo general se cotiza por hora de acuerdo al tipo de evento y hacemos precios especiales para los cierres de fin de año. CONTACTANOS con tiempo para reservar fechas y armamos un presupuesto a tu medida.</p>
 
   </div>
