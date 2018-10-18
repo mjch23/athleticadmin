@@ -3,6 +3,8 @@
 
   <head>
 
+	<meta name="google-site-verification" content="8VZHxcR60b6cus090D4wAdJ6-6chhxReFFR2Vj6jRp4" />
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -138,7 +140,7 @@
     <!-- Callout -->
     <section class="callout">
       <div class="container text-center">
-       <a> <h2 class="mx-auto mb-5 text-white"  href="#contact">Pedinos
+       <a><h2 class="mx-auto mb-5 text-white"  href="#contact">Pedinos
           <em>tu</em>
           sesión</h2></a>
      <!--  <a class="btn btn-primary btn-xl" href="https://startbootstrap.com/template-overviews/stylish-portfolio/">Download Now!</a> -->
