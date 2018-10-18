@@ -57,7 +57,7 @@
     </nav>
 
     <!-- Header -->
-    <header class="masthead2 d-flex">
+    <header class="masthead d-flex">
       <div class="container text-center my-auto">
         <h1 class="mb-1 text-white">Lorena Farías Fotografía</h1>
         <h3 class="mb-5 text-white">
@@ -136,7 +136,7 @@
     </section>
 
     <!-- Callout -->
-    <section class="callout2">
+    <section class="callout">
       <div class="container text-center">
         <h2 class="mx-auto mb-5 text-white">Pedinos
           <em>tu</em>
