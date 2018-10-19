@@ -21,6 +21,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <link rel="icon" href="img/logo.jpg">
+
     <title>Lorena Farías Fotografía</title>
 
     <!-- Bootstrap Core CSS -->
