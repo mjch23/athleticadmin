@@ -86,12 +86,12 @@
       <div class="container text-center">
         <div class="row">
           <div class="col-lg-10 mx-auto">
-            <img class="img-fluid" src="img/logo.jpg" alt="">
+            <img class="img-fluid" src="img/logo.jpg" width="200" height="200" alt="Responsive image">
 
             <br>
             <br>
 
-            <p class="lead mb-5">La fotografía me descubrió a mí, o yo me descubrí a través de ella. Hay algo que para mi es fundamental y es que la mirada, esa mirada, no es para mi: es para quien observa, te mira, te transmite, te muestra el alma y  te atraviesa...objetivo cumplido...</p>
+            <p class="lead mb-5"><h4>La fotografía me descubrió a mí, o yo me descubrí a través de ella. Hay algo que para mi es fundamental y es que la mirada, esa mirada, no es para mi: es para quien observa, te mira, te transmite, te muestra el alma y  te atraviesa...objetivo cumplido...</h4></p>
 
             <a class="btn btn-info btn-xl js-scroll-trigger" href="#services">Qué hacemos</a>
           </div>
@@ -151,9 +151,9 @@
     <!-- Callout -->
     <section class="callout">
       <div class="container text-center">
-       <a><h2 class="mx-auto mb-5 text-white"  href="#contact">Pedinos
-          <em>tu</em>
-          sesión</h2></a>
+       <h2 class="mx-auto mb-5 text-white">Pedinos
+          <a href="#contact" class="text-white"><em>tu</em></a>
+          sesión</h2>
      <!--  <a class="btn btn-primary btn-xl" href="https://startbootstrap.com/template-overviews/stylish-portfolio/">Download Now!</a> -->
       </div>
     </section>
