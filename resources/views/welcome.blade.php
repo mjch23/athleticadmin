@@ -21,7 +21,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <link rel="icon" href="img/logo.jpg">
+    <link rel="icon" href="img/logo.png">
 
     <title>Lorena Farías Fotografía</title>
 
