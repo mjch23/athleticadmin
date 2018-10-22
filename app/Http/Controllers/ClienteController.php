@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Cliente;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Session;
 
 class ClienteController extends Controller
 {
@@ -56,6 +57,8 @@ class ClienteController extends Controller
     public function show($id)
     {
 
+      //  $origen = 1;
+      // Session::flash('origen',$origen);
 
             $presupuestos = DB::table('presupuesto')
             ->join('clientes', 'presupuesto.id_cliente', '=', 'clientes.id')

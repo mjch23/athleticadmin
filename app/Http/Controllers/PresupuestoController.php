@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Presupuesto;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Session;
 use App\Producto;
 use App\Data;
 use App\Actividad;
@@ -136,9 +137,13 @@ class PresupuestoController extends Controller
             $precio_presupuesto = DB::table('ProductoPresupuesto')
             ->where('id_presupuesto','=',$id)
             ->sum('precio_total_pp');
-
      
-        return view('presupuesto.edit',compact('presupuestos','actividades','data','cliente','precio_presupuesto'));
+           // $origen = \Session::get('origen');
+           // Session::flash('origen',$origen);
+
+            return view('presupuesto.edit',compact('presupuestos','actividades','data','cliente','precio_presupuesto'));
+
+        
         //
     }
 
@@ -154,9 +159,14 @@ class PresupuestoController extends Controller
        // $this->validate($request,[ 'nombre'=>'required', 'resumen'=>'required', 'npagina'=>'required', 'edicion'=>'required', 'autor'=>'required', 'npagina'=>'required', 'precio'=>'required']);
  
 
+        //$origen = \Session::get('origen');       
+
 
         Presupuesto::find($id)->update($request->all());
+
         return redirect()->route('presupuesto.index')->with('success','Registro actualizado satisfactoriamente');
+
+        
   //
     }
 
