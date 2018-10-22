@@ -133,7 +133,7 @@ class PresupuestoController extends Controller
             ->orderBy('id_actividad')
             ->get(); 
 
-            $precio_presupuesto = DB::table('productopresupuesto')
+            $precio_presupuesto = DB::table('ProductoPresupuesto')
             ->where('id_presupuesto','=',$id)
             ->sum('precio_total_pp');
 
