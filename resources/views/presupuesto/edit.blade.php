@@ -303,6 +303,7 @@ $.get("{{url('/ajax-subcat?nombre_actividad=')}}"+nombre_actividad, function(dat
 console.log(data);
 
 $('#nombre_producto').empty();
+$('#nombre_producto').append('S');
 $.each(data, function(index,subcatObj){
 
 
