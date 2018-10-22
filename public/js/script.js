@@ -14,13 +14,13 @@ $(document).ready(function() {
         $('#myModal').modal('show');
     });
     $(document).on('click', '.delete-modal', function() {
-        $('#footer_action_button').text("Eliminar");
-        $('#footer_action_button').removeClass('glyphicon-check');
-        $('#footer_action_button').addClass('glyphicon-trash');
+        $('#footer_action_button').text(" Delete");
+        $('#footer_action_button').removeClass('far fa-check-square');
+        $('#footer_action_button').addClass('far fa-trash-alt');
         $('.actionBtn').removeClass('btn-success');
         $('.actionBtn').addClass('btn-danger');
         $('.actionBtn').addClass('delete');
-        $('.modal-title').text('Eliminar');
+        $('.modal-title').text('Delete');
         $('.did').text($(this).data('id'));
         $('.deleteContent').show();
         $('.form-horizontal').hide();

@@ -79,6 +79,7 @@
                                     </button>
                                   </div>
 
+
                   </div>
 
         </div>
@@ -183,8 +184,7 @@
 
 
 <form method="GET" action="{{ route('report.generar', $presupuestos->id_presupuesto) }}" target="_blank" role="form">
-
-  {{ csrf_field() }}
+           {{ csrf_field() }}
 
        <label for="validationDefaultUsername">Exportar a PDF</label>
                 <input class="form-control" type="text" id="valor_p" name="valor_p" readonly value="{{$presupuestos->id_presupuesto}}" hidden/>   
@@ -232,11 +232,12 @@
               </div>
             </form>
             <div class="deleteContent">
-              ¿Está seguro que desea Eliminar <em><span class="dname"></span></em>?
+              ¿Está seguro que desea Eliminar? <span class="dname"></span> ? <span
+                class="hidden did"></span>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn actionBtn" data-dismiss="modal">
-                <span id="footer_action_button" class='glyphicon'> </span>
+                <span id="footer_action_button" class='far fa-trash-alt'> </span>
               </button>
               <button type="button" class="btn btn-warning" data-dismiss="modal">
                 <span class='fas fa-window-close'></span> Cerrar
@@ -245,15 +246,12 @@
           </div>
         </div>
       </div>
-
-    <script src="{{ asset('js/app.js') }}"></script>
-    <script src="{{ asset('js/script.js') }}"></script>
-
-</div>
+      <script src="{{ asset('js/app.js') }}"></script>
+      <script src="{{ asset('js/script.js') }}"></script>
 
 </div>
 
-
+</div>
 
 <script>
 $(document).ready(function(){
@@ -291,36 +289,29 @@ $(document).ready(function(){
 <script>
 
 $('#nombre_actividad').on('change',function(e){
-
 var nombre_actividad = e.target.value;
 
 
 
-
 //ajax
-$.get("{{url('/ajax-subcat?nombre_actividad=')}}"+nombre_actividad, function(data){
+$.get('/ajax-subcat?nombre_actividad='+nombre_actividad, function(data){
 
-var seleccionar_producto = "Seleccionar Producto";
-
+var seleccionar = "Seleccionar Producto";
 console.log(data);
 
-
-  $('#nombre_producto').empty();
-
-  $('#nombre_producto').append('<option value="'+seleccionar_producto+'"></option>');
-
+$('#nombre_producto').empty();
+$('#nombre_producto').append('<option value="'+seleccionar+'"> Seleccionar Producto...</option>');
 $.each(data, function(index,subcatObj){
+
 
   $('#nombre_producto').append('<option value="'+subcatObj.id_producto+'">'+subcatObj.nombre_producto+' $'+subcatObj.precio_producto+'</option>');
 
 
-});
-
-
 
 });
 
 
+});
 
 });
 
@@ -333,7 +324,7 @@ $('#nombre_actividad').on('change',function(e){
 var nombre_actividad = e.target.value;
 
 
-$.get("{{url('/ajax-subcat?nombre_actividad=')}}"+nombre_actividad, function(data){
+$.get('/ajax-subcat?nombre_actividad='+nombre_actividad, function(data){
 
 
   $("#nombre_producto").change(function(){

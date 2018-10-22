@@ -5,7 +5,6 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Presupuesto;
 use Illuminate\Support\Facades\DB;
-use Illuminate\Support\Facades\Session;
 use App\Producto;
 use App\Data;
 use App\Actividad;
@@ -80,7 +79,8 @@ class PresupuestoController extends Controller
         ->first()
         ->id;
 
-        $fecha= date("Y-m-d H:i:s");
+       $fecha= date("Y-m-d H:i:s"); // https://donnierock.com/2012/06/26/convertirfechasphp/
+
 
         $presupuesto = new Presupuesto();
         $presupuesto->id_cliente = $id_cliente;
@@ -92,7 +92,6 @@ class PresupuestoController extends Controller
 
 
         //Presupuesto::create($request->all());
-       
         return redirect()->route('presupuesto.index')->with('success','Registro creado satisfactoriamente');   
 
 
@@ -134,16 +133,12 @@ class PresupuestoController extends Controller
             ->orderBy('id_actividad')
             ->get(); 
 
-            $precio_presupuesto = DB::table('ProductoPresupuesto')
+            $precio_presupuesto = DB::table('productopresupuesto')
             ->where('id_presupuesto','=',$id)
             ->sum('precio_total_pp');
+
      
-           // $origen = \Session::get('origen');
-           // Session::flash('origen',$origen);
-
-            return view('presupuesto.edit',compact('presupuestos','actividades','data','cliente','precio_presupuesto'));
-
-        
+        return view('presupuesto.edit',compact('presupuestos','actividades','data','cliente','precio_presupuesto'));
         //
     }
 
@@ -159,14 +154,9 @@ class PresupuestoController extends Controller
        // $this->validate($request,[ 'nombre'=>'required', 'resumen'=>'required', 'npagina'=>'required', 'edicion'=>'required', 'autor'=>'required', 'npagina'=>'required', 'precio'=>'required']);
  
 
-        //$origen = \Session::get('origen');       
-
 
         Presupuesto::find($id)->update($request->all());
-
         return redirect()->route('presupuesto.index')->with('success','Registro actualizado satisfactoriamente');
-
-        
   //
     }
 
@@ -178,10 +168,10 @@ class PresupuestoController extends Controller
      */
     public function destroy($id)
     {
-        $presupuesto=Presupuesto::find($id);
-        $presupuesto->inactivo='1';
+        $presupuesto = Presupuesto::find($id);
+        $presupuesto->inactivo = '1';
         $presupuesto->save();
-        return back();        
+        return back();
         //return redirect()->route('presupuesto.index')->with('success','Registro eliminado satisfactoriamente');
          //
     }
