@@ -63,36 +63,37 @@
 
                    <button type= "button" class="btn btn-danger btn-xs" data-toggle="modal" data-target="#exampleModalCenter-{{$presupuesto->id_presupuesto}}"><span class="far fa-trash-alt"></span></button>
 
-					<!-- Modal -->
+
+          <!-- Modal -->
 
 
-						<div class="modal fade" id="exampleModalCenter-{{$presupuesto->id_presupuesto}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
- 							 <div class="modal-dialog modal-dialog-centered" role="document">
-   								 <div class="modal-content">
-     								 <div class="modal-header">
-       									 <h5 class="modal-title" id="exampleModalCenterTitle"><i class="fas fa-exclamation-triangle text-danger"></i>		Atención!</h5>
-     									   <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-        								  <span aria-hidden="true">&times;</span>
-   									     </button>
-   									   </div>
-   								   <div class="modal-body"> Se va a Eliminar el Registro. Esta acción no se puede deshacer
-    								  </div>
-      									<div class="modal-footer">
-       								 <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+            <div class="modal fade" id="exampleModalCenter-{{$presupuesto->id_presupuesto}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+               <div class="modal-dialog" role="document">
+                   <div class="modal-content">
+                     <div class="modal-header">
+                         <h5 class="modal-title" id="exampleModalCenterTitle">¡Atención!</h5>
+                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                         </button>
+                       </div>
+                     <div class="modal-body"> Se va a Eliminar el Registro. Esta acción no se puede deshacer
+                      </div>
+                        <div class="modal-footer">
+                       <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
 
                 <form action="{{action('PresupuestoController@destroy', $presupuesto->id_presupuesto)}}" method="post">
-                			   {{csrf_field()}}
-                			   <input name="_method" type="hidden" value="DELETE">
+                         {{csrf_field()}}
+                         <input name="_method" type="hidden" value="DELETE">
 
-       				 <button type="submit" class="btn btn-danger">Eliminar registro</button>
+               <button type="submit" class="btn btn-danger">Eliminar registro</button>
 
 
-     			 </div>
+           </div>
 
-       			 </form>
-       			      			 
-  			  </div>
- 			 </div>
+             </form>
+                         
+          </div>
+       </div> 
 	
 
                  </td>

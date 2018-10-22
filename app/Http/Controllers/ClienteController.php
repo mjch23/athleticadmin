@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Cliente;
+use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Session;
 
 class ClienteController extends Controller
 {
@@ -54,8 +56,21 @@ class ClienteController extends Controller
      */
     public function show($id)
     {
+
+      //  $origen = 1;
+      // Session::flash('origen',$origen);
+
+            $presupuestos = DB::table('presupuesto')
+            ->join('clientes', 'presupuesto.id_cliente', '=', 'clientes.id')
+            ->select('*')
+            ->where('presupuesto.inactivo',NULL)
+            ->where('presupuesto.id_cliente',$id)
+            ->orderBy('id_presupuesto','DESC')
+            ->get();
+
+
         $clientes=Cliente::find($id);
-        return  view('clientes.show',compact('clientes'));  //
+        return  view('clientes.show',compact('clientes','presupuestos'));  //
     }
 
     /**

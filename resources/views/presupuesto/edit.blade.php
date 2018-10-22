@@ -232,8 +232,7 @@
               </div>
             </form>
             <div class="deleteContent">
-              ¿Está seguro que desea Eliminar? <span class="dname"></span> ? <span
-                class="hidden did"></span>
+              ¿Está seguro que desea Eliminar <em><span class="dname"></span></em>?
             </div>
             <div class="modal-footer">
               <button type="button" class="btn actionBtn" data-dismiss="modal">
@@ -246,12 +245,15 @@
           </div>
         </div>
       </div>
-      <script src="{{ asset('js/app.js') }}"></script>
-      <script src="{{ asset('js/script.js') }}"></script>
+
+    <script src="{{ asset('js/app.js') }}"></script>
+    <script src="{{ asset('js/script.js') }}"></script>
 
 </div>
 
 </div>
+
+
 
 <script>
 $(document).ready(function(){
@@ -289,24 +291,32 @@ $(document).ready(function(){
 <script>
 
 $('#nombre_actividad').on('change',function(e){
+
 var nombre_actividad = e.target.value;
+
 
 
 
 //ajax
 $.get("{{url('/ajax-subcat?nombre_actividad=')}}"+nombre_actividad, function(data){
 
+var seleccionar_producto = "Seleccionar Producto";
 
 console.log(data);
 
-$('#nombre_producto').empty();
-$.each(data, function(index,subcatObj){
 
+  $('#nombre_producto').empty();
+
+  $('#nombre_producto').append('<option value="'+seleccionar_producto+'"></option>');
+
+$.each(data, function(index,subcatObj){
 
   $('#nombre_producto').append('<option value="'+subcatObj.id_producto+'">'+subcatObj.nombre_producto+' $'+subcatObj.precio_producto+'</option>');
 
 
 });
+
+
 
 });
 
