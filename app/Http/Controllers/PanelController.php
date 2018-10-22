@@ -15,7 +15,8 @@ class PanelController extends Controller
     public function index()
     {
               
-            $clientes = DB::table('clientes')                 
+            $clientes = DB::table('clientes')   
+            ->where('inactivo',NULL)                  
             ->count(); 
             $presupuestos= DB::table('presupuesto')  
             ->where('presupuesto.inactivo',NULL)                
