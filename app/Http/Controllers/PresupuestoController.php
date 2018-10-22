@@ -91,6 +91,7 @@ class PresupuestoController extends Controller
 
 
         //Presupuesto::create($request->all());
+       
         return redirect()->route('presupuesto.index')->with('success','Registro creado satisfactoriamente');   
 
 
@@ -170,7 +171,8 @@ class PresupuestoController extends Controller
         $presupuesto=Presupuesto::find($id);
         $presupuesto->inactivo='1';
         $presupuesto->save();
-        return redirect()->route('presupuesto.index')->with('success','Registro eliminado satisfactoriamente');
+        return back();        
+        //return redirect()->route('presupuesto.index')->with('success','Registro eliminado satisfactoriamente');
          //
     }
 

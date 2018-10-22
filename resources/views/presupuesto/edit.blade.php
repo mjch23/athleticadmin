@@ -246,12 +246,15 @@
           </div>
         </div>
       </div>
-      <script src="{{ asset('js/app.js') }}"></script>
-      <script src="{{ asset('js/script.js') }}"></script>
+
+    <script src="{{ asset('js/app.js') }}"></script>
+    <script src="{{ asset('js/script.js') }}"></script>
 
 </div>
 
 </div>
+
+
 
 <script>
 $(document).ready(function(){

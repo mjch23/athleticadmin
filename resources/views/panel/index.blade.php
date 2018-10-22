@@ -23,8 +23,8 @@
                   </div>
                   <div class="mr-5">{{$clientes}} Clientes</div>
                 </div>
-                <a class="card-footer text-white clearfix small z-1" href="#">
-                  <span class="float-left">Ver Detalles</span>
+                <a class="card-footer text-white clearfix small z-1" href="{{route('cliente.index')}}">
+                  <span class="float-left">Acceder</span>
                   <span class="float-right">
                     <i class="fas fa-angle-right"></i>
                   </span>
@@ -39,8 +39,8 @@
                   </div>
                   <div class="mr-5">{{$productos}} Productos</div>
                 </div>
-                <a class="card-footer text-white clearfix small z-1" href="#">
-                  <span class="float-left">Ver Detalles</span>
+                <a class="card-footer text-white clearfix small z-1" href="{{route('producto.index')}}">
+                  <span class="float-left">Acceder</span>
                   <span class="float-right">
                     <i class="fas fa-angle-right"></i>
                   </span>
@@ -56,7 +56,7 @@
                   <div class="mr-5">Órdenes</div>
                 </div>
                 <a class="card-footer text-white clearfix small z-1" href="#">
-                  <span class="float-left">Ver Detalles</span>
+                  <span class="float-left">Acceder</span>
                   <span class="float-right">
                     <i class="fas fa-angle-right"></i>
                   </span>
@@ -71,8 +71,8 @@
                   </div>
                   <div class="mr-5">{{$presupuestos}} Presupuestos</div>
                 </div>
-                <a class="card-footer text-white clearfix small z-1" href="#">
-                  <span class="float-left">Ver Detalles</span>
+                <a class="card-footer text-white clearfix small z-1" href="{{route('presupuesto.index')}}">
+                  <span class="float-left">Acceder</span>
                   <span class="float-right">
                     <i class="fas fa-angle-right"></i>
                   </span>
