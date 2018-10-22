@@ -64,33 +64,7 @@
                    <button type= "button" class="btn btn-danger btn-xs" data-toggle="modal" data-target="#exampleModalCenter-{{$presupuesto->id_presupuesto}}"><span class="far fa-trash-alt"></span></button>
 
 
-    <!-- Logout Modal-->
-    <div class="modal fade" id="exampleModalCenter-{{$presupuesto->id_presupuesto}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-      <div class="modal-dialog" role="document">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLabel">¿Terminar Sesión actual?</h5>
-            <button class="close" type="button" data-dismiss="modal" aria-label="Close">
-              <span aria-hidden="true">×</span>
-            </button>
-          </div>
-          <div class="modal-body">Seleccionar Salir para terminar la sesión.</div>
-          <div class="modal-footer">
-            <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancelar</button>
-            <a class="btn btn-primary" href="{{ route('logout') }}" onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();">Salir</a>
-
-            <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
-                                        @csrf
-            </form>
-
-
-          </div>
-        </div>
-      </div>
-    </div>
-
-					<!-- Modal 
+					<!-- Modal -->
 
 
 						<div class="modal fade" id="exampleModalCenter-{{$presupuesto->id_presupuesto}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -119,7 +93,7 @@
        			 </form>
        			      			 
   			  </div>
- 			 </div> -->
+ 			 </div> 
 	
 
                  </td>
