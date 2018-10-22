@@ -300,7 +300,7 @@ var nombre_actividad = e.target.value;
 //ajax
 $.get("{{url('/ajax-subcat?nombre_actividad=')}}"+nombre_actividad, function(data){
 
-var seleccionar_producto = "Seleccionar";
+var seleccionar_producto = "Seleccionar Producto";
 
 console.log(data);
 
