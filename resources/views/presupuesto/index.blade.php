@@ -67,7 +67,7 @@
 					<!-- Modal -->
 
 
-						<div class="modal fade" id="exampleModalCenter-{{$presupuesto->id_presupuesto}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+						<div class="modal fade" id="exampleModalCenter-{{$presupuesto->id_presupuesto}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true" data-backdrop="false">
  							 <div class="modal-dialog" role="document">
    								 <div class="modal-content">
      								 <div class="modal-header">
