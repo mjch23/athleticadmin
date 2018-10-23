@@ -156,6 +156,7 @@ class PresupuestoController extends Controller
 
 
         Presupuesto::find($id)->update($request->all());
+        
         return redirect()->route('presupuesto.index')->with('success','Registro actualizado satisfactoriamente');
   //
     }
