@@ -8,7 +8,6 @@ use Barryvdh\DomPDF\Facade as PDF;
 use App\Data;
 use View;
 use App;
-use DateTime;
 
 class ReportController extends Controller
 {
@@ -33,37 +32,19 @@ class ReportController extends Controller
     public function generar(Request $request)
     {
 
-  
         $razon_social = $request->valor_rs;
         $precio_total = $request->valor_psp;
-        $id_presupuesto = $request->valor_p;
 
-        $data = DB::table('productopresupuesto')
+        $data = DB::table('ProductoPresupuesto')
         ->select('id_pp','nombre_actividad','nombre_producto','cantidad_pp','precio_unitario_pp','precio_total_pp')
         ->where('id_presupuesto','=',$request->valor_p)
         ->get();
 
-        $fecha_p = DB::table('presupuesto')
-        ->select('fecha_presupuesto')
-        ->where('id_presupuesto','=',$request->valor_p)
-        ->first();
-
-        list($yy,$mm,$dd)=explode("-",$fecha_p->fecha_presupuesto);
-      //  $fecha_presupuesto = new DateTime();
-      //  $fecha_presupuesto->setDate($yy, $mm, $dd);
-
-      //  dd($yy);
-
-        $cliente = DB::table('clientes')
-        ->select('*')
-        ->where('razon_social','=',$razon_social)
-        ->get();
-
-        $view = View::make('reporte.index',compact('data','razon_social','precio_total','id_presupuesto','cliente','yy','mm','dd'))->render();
+        $view = View::make('reporte.index',compact('data','razon_social','precio_total'))->render();
         $pdf = App::make('dompdf.wrapper');
         $pdf->loadHTML($view);
 
-      // return view('reporte.index', compact ('data','razon_social','precio_total','id_presupuesto','cliente','yy','mm','dd'));
+     //   return view('reporte.index', compact ('data'));
 
         return $pdf->stream('informe'.'.pdf');
     }
