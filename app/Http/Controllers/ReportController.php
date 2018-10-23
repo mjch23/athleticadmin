@@ -38,7 +38,7 @@ class ReportController extends Controller
         $precio_total = $request->valor_psp;
         $id_presupuesto = $request->valor_p;
 
-        $data = DB::table('productopresupuesto')
+        $data = DB::table('ProductoPresupuesto')
         ->select('id_pp','nombre_actividad','nombre_producto','cantidad_pp','precio_unitario_pp','precio_total_pp')
         ->where('id_presupuesto','=',$request->valor_p)
         ->get();
