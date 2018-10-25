@@ -120,7 +120,7 @@ i = i + 1;
                   
 
                   if (cbu.substring(21,22) != i){
-                  alert("El CBU ingresado no es válido, por favor verificador");
+                  alert("El CBU ingresado no es válido, por favor verificar");
                   return false;
                   } 
 

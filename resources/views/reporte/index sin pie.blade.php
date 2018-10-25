@@ -16,24 +16,6 @@
         padding: 6px 5px;
         font-size: 15px;
     }
-
-            header {
-                position: relative;
-                top: 0px;
-                left: 150px;
-                right: 0px;
-                height: 50px;
-            }
-
-            footer {
-                position: fixed; 
-                bottom: 10px; 
-                left: 0px; 
-                right: 0px;
-                height: 50px; 
-
-            }
-
     .h1{
         font-size: 21px;
         font-weight: bold;
@@ -104,7 +86,8 @@
 </style>
 </head>
 <header>
-            <img id="encabezado" align="center" src="{{ asset('images/encabezado.jpg') }}" alt="" width="60%">
+       <img id="pie" src="{{ asset('images/encabezado.jpg') }}" alt="" width="100%">
+
 </header>
 <body>
 <section class="contenido">
@@ -117,7 +100,7 @@
                             <td align="center" ><span class="h1">PRESUPUESTO</span></td>
                         </tr>
                         <tr>
-                            <td align="center" >001- Nº <span class="text">{{$id_presupuesto}}</span></td>
+                            <td align="center" class="border">001- Nº <span class="text">{{$id_presupuesto}}</span></td>
                         </tr>
                     </table>
                 </td>
