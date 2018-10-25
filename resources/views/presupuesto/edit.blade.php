@@ -3,7 +3,9 @@
 @extends('layouts.master')
 @section('content')
 
+
 <div class="container-fluid">
+
 
 <div class="card">
   <div class="card-body">
@@ -246,12 +248,15 @@
           </div>
         </div>
       </div>
-      <script src="{{ asset('js/app.js') }}"></script>
+
+
+    <!-- antes en esta línea tenía el app.js pero eso impedía que anduvieran los menúes de arriba-->
       <script src="{{ asset('js/script.js') }}"></script>
 
 </div>
 
 </div>
+
 
 <script>
 $(document).ready(function(){

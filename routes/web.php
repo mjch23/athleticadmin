@@ -40,6 +40,14 @@ Route::get('cliente/index','ClienteController@index')->name('cliente');
 Route::post('/cliente/{id}', 'ClienteController@update')->name('cliente.update'); //Formulario Actualizar
 Route::resource('cliente', 'ClienteController');
 
+Route::get('proveedor/index','ProveedorController@index')->name('proveedor');
+Route::post('/proveedor/{id}', 'ProveedorController@update')->name('proveedor.update'); //Formulario Actualizar
+Route::resource('proveedor', 'ProveedorController');
+
+//Route::get('proveedor/show','CuentaBancariaController@index')->name('cuentabancaria');
+Route::post('/cuentabancaria/{id}','CuentaBancariaController@update');
+Route::resource('cuentabancaria', 'CuentaBancariaController');
+
 Route::post('/actividad/{id}', 'ActividadController@update')->name('actividad.update'); //Formulario Actualizar
 Route::resource('actividad', 'ActividadController');
 

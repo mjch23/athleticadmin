@@ -136,6 +136,12 @@
             <span>Órdenes</span></a>
         </li>
 
+        <li class="nav-item">
+          <a class="nav-link" href="{{route('proveedor.index')}}">
+            <i class="fas fa-file-powerpoint"></i> 
+            <span>Proveedores</span></a>
+        </li>          
+
        <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="pagesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <i class="fas fa-fw fa-cogs"></i>
@@ -157,6 +163,7 @@
         <div class="container-fluid">
 
 @yield('content')
+
 
         </div>
         <!-- /.container-fluid -->
@@ -207,7 +214,7 @@
       </div>
     </div>
 
-    
+
 
     <!-- Bootstrap core JavaScript-->
     <script src="{{ asset('vendor/jquery/jquery.min.js')}}"></script>
