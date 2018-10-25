@@ -249,8 +249,11 @@
         </div>
       </div>
 
+<<<<<<< HEAD
 
     <!-- antes en esta línea tenía el app.js pero eso impedía que anduvieran los menúes de arriba-->
+=======
+>>>>>>> 6abe46c723571d8932ab807da7c55c0c8aed4b78
       <script src="{{ asset('js/script.js') }}"></script>
 
 </div>

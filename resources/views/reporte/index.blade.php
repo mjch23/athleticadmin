@@ -89,7 +89,7 @@
 
         <table width="100%" class="tabla1">
             <tr>
-                <td width="73%" align="center" class="fondo"><img id="logo" src="{{ asset('images/logoathletic.jpg') }}" alt="" width="154" height="72"></td>
+                <td width="73%" align="center"><img id="logo" src="{{ asset('images/logoathleticarg.jpg') }}" alt="" width="120" height="70"></td>
                 <td width="27%" rowspan="3" align="center" style="padding-right:0">
                     <table width="100%">
                         <tr>
