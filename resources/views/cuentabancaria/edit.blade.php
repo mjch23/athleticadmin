@@ -20,7 +20,7 @@
     </div>
     <div class="col-md-4 mb-3">
       <label for="validationDefault02">Alias</label>
-      <input type="text" class="form-control" id="alias" name="alias" value="{{$cuentabancaria->alias}}" required>
+      <input type="text" class="form-control" id="alias" name="alias" value="{{$cuentabancaria->alias}}">
     </div>
   </div>
   
