@@ -179,10 +179,9 @@
                 <td style="border:0;">&nbsp;</td>
                 <td style="border:0;">&nbsp;</td>
                 <td style="border:0;">&nbsp;</td>
-                <td style="border:0;">&nbsp;</td>               
+                <td style="border:0;">&nbsp;</td>                             
                 <td align="right" class="fondo"><strong>TOTAL</strong></td>
-                <td align="right"><span class="text">$ {{$precio_total}}</span></td>
-
+                <td align="right" class="fondo" ><span class="text">$ {{$precio_total}}</span></td>
             </tr>
             <tr>
                 <td style="border:0;">&nbsp;</td>

@@ -27,40 +27,40 @@
 
   <div class="form-row">
     <div class="col-md-4 mb-3">
-      <label for="validationDefault01">Razón Social</label>
+      <label for="validationDefault01">Razón Social<sup> *</sup></label>
       <input type="text" class="form-control" id="razon_social" name="razon_social" value="{{$clientes->razon_social}}" required>
     </div>
     <div class="col-md-4 mb-3">
-      <label for="validationDefault02">Club</label>
+      <label for="validationDefault02">Club<sup> *</sup></label>
       <input type="text" class="form-control" id="club" name="club" value="{{$clientes->club}}" required>
     </div>
     <div class="col-md-4 mb-3">
-      <label for="validationDefault02">CUIT</label>
+      <label for="validationDefault02">CUIT<sup> *</sup></label>
       <input type="text" class="form-control" id="cuit" name="cuit" value="{{$clientes->cuit}}" required>
     </div>
   </div>
   <div class="form-row">
     <div class="col-md-6 mb-3">
-      <label for="validationDefault03">Dirección</label>
+      <label for="validationDefault03">Dirección<sup> *</sup></label>
       <input type="text" class="form-control" id="direccion" name="direccion" value="{{$clientes->direccion}}" required>
     </div>
     <div class="col-md-3 mb-3">
-      <label for="validationDefault04">Localidad</label>
+      <label for="validationDefault04">Localidad<sup> *</sup></label>
       <input type="text" class="form-control" id="localidad" name="localidad" value="{{$clientes->localidad}}" required>
     </div>
     <div class="col-md-3 mb-3">
-      <label for="validationDefault05">Provincia</label>
+      <label for="validationDefault05">Provincia<sup> *</sup></label>
       <input type="text" class="form-control" id="provincia" name="provincia" value="{{$clientes->provincia}}" required>
     </div>
   </div>
 
     <div class="form-row">
     <div class="col-md-4 mb-3">
-      <label for="validationDefault01">País</label>
+      <label for="validationDefault01">País<sup> *</sup></label>
       <input type="text" class="form-control" id="pais" name="pais" value="{{$clientes->pais}}" required>
     </div>
     <div class="col-md-4 mb-3">
-      <label for="validationDefault02">Actividad</label>
+      <label for="validationDefault02">Actividad<sup> *</sup></label>
       <input type="text" class="form-control" id="actividad" name="actividad" value="{{$clientes->actividad}}" required>
     </div>
 
@@ -68,15 +68,15 @@
 
     <div class="form-row">
     <div class="col-md-4 mb-3">
-      <label for="validationDefault01">Apellido</label>
+      <label for="validationDefault01">Apellido<sup> *</sup></label>
       <input type="text" class="form-control" id="apellidos" name="apellidos" value="{{$clientes->apellidos}}" required>
     </div>
     <div class="col-md-4 mb-3">
-      <label for="validationDefault02">Nombres</label>
+      <label for="validationDefault02">Nombres<sup> *</sup></label>
       <input type="text" class="form-control" id="nombres" name="nombres" value="{{$clientes->nombres}}" required>
     </div>
     <div class="col-md-4 mb-3">
-      <label for="validationDefault02">DNI</label>
+      <label for="validationDefault02">DNI<sup> *</sup></label>
       <input type="text" class="form-control" id="dni"  name="dni" value="{{$clientes->dni}}" required>
     </div>
   </div>
@@ -84,21 +84,21 @@
       <div class="form-row">
     <div class="col-md-4 mb-3">
       <label for="validationDefault01">Teléfono</label>
-      <input type="text" class="form-control" id="telefono" name="telefono" value="{{$clientes->telefono}}" required>
+      <input type="text" class="form-control" id="telefono" name="telefono" value="{{$clientes->telefono}}">
     </div>
     <div class="col-md-4 mb-3">
-      <label for="validationDefault02">Celular</label>
+      <label for="validationDefault02">Celular<sup> *</sup></label>
       <input type="text" class="form-control" id="celular1" name="celular1" value="{{$clientes->celular1}}" required>
     </div>
     <div class="col-md-4 mb-3">
       <label for="validationDefault02">Celular Alternativo</label>
-      <input type="text" class="form-control" id="celular2" name="celular2" value="{{$clientes->celular2}}" required>
+      <input type="text" class="form-control" id="celular2" name="celular2" value="{{$clientes->celular2}}">
     </div>
   </div>
 
       <div class="form-row">
     <div class="col-md-4 mb-3">
-      <label for="validationDefault01">Email</label>
+      <label for="validationDefault01">Email<sup> *</sup></label>
       <input type="text" class="form-control" id="email" name="email" value="{{$clientes->email}}" required>
     </div>
     <div class="col-md-4 mb-3">

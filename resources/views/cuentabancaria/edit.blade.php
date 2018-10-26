@@ -11,11 +11,11 @@
 
   <div class="form-row">
     <div class="col-md-4 mb-3">
-      <label for="validationDefault01">Banco</label>
+      <label for="validationDefault01">Banco<sup> *</sup></label>
       <input type="text" class="form-control" id="banco" name="banco" value="{{$cuentabancaria->banco}}" required>   
     </div>
     <div class="col-md-4 mb-3">
-      <label for="validationDefault02">CBU</label>
+      <label for="validationDefault02">CBU<sup> *</sup></label>
       <input type="text" class="form-control" id="cbu" name="cbu"  maxlength="22" value="{{$cuentabancaria->cbu}}" required>
     </div>
     <div class="col-md-4 mb-3">
