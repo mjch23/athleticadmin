@@ -2,6 +2,7 @@
 @section('content')
 
 
+
 <div class="container-fluid">
 
 <div class="card">
@@ -12,7 +13,6 @@
       <h3 class="card-title">Productos</h3>
 	</div>
 
-
 	  <div class="form-group mx-sm-3 mb-2">
             <div class="btn-group">
               <a href="{{ route('producto.create') }}" class="btn btn-info" >Nuevo Producto</a>
@@ -22,7 +22,7 @@
 </form>
 
           <div class="table-responsive">
-            <table id="myTable" class="table table-striped">
+            <table id="mytable" class="table table-striped">
              <thead>
                <th>Id</th>    
                <th>Producto</th>   
@@ -110,7 +110,7 @@
    <!-- </div> -->
   </div>
 
-
+     <div class="container"> {{ $productos->links() }} </div>
 
 </section>
 
@@ -119,17 +119,6 @@
 </div>
 </div>
 
-<script>
-$(document).ready( function () {
-    $('#myTable').DataTable({
-    "language": {
-      "url": "//cdn.datatables.net/plug-ins/1.10.15/i18n/Spanish.json"
-    }
-  });
-} );
-</script>
 
 
 @endsection
-
-

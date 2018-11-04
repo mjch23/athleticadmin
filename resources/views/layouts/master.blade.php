@@ -29,13 +29,22 @@
     <link href="{{ asset('css/sb-admin.css') }}" rel="stylesheet">
     <link href="{{ asset('css/sb-admin.min.css') }}" rel="stylesheet">
 
+    <!-- Datatables 
+
+    <link rel="stylesheet" type="text/css" href="{{asset ('css/jquery.dataTables.css')}}"> -->
+
 
     <!-- Scripts -->
     <script src="{{ asset('js/sb-admin.js') }}" defer></script>
     <script src="{{ asset('js/sb-admin.min.js') }}" defer></script>
     <script src="{{ asset('vendor/jquery/jquery.min.js')}}"></script>
     <script src="{{ asset('vendor/jquery/jquery.js')}}"></script>
-    <script src="{{ asset('js/app.js') }}"></script>
+   <!--  <script src="{{ asset('js/app.js') }}"></script> -->
+
+    <!-- Datatables 
+
+    <script src="{{asset('js/jquery.dataTables.js')}}" type="text/javascript"></script> -->
+
  
 
 
@@ -231,8 +240,7 @@
 
     <!-- Custom scripts for all pages-->
     <script src="{{ asset('js/sb-admin.min.js')}}"></script>
-    <script src="{{ asset('js/app.js') }}"></script>
-
+   <!-- <script src="{{ asset('js/app.js') }}"></script> -->
 
   </body>
 
