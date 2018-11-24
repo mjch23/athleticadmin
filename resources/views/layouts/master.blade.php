@@ -45,7 +45,12 @@
 
     <script src="{{asset('js/jquery.dataTables.js')}}" type="text/javascript"></script> -->
 
- 
+    <!-- DatePicker para Ordenes -->
+
+    <script src="https://cdn.jsdelivr.net/npm/gijgo@1.9.10/js/gijgo.min.js" type="text/javascript"></script>
+    <link href="https://cdn.jsdelivr.net/npm/gijgo@1.9.10/css/gijgo.min.css" rel="stylesheet" type="text/css" /> 
+
+
 
 
   </head>
@@ -140,7 +145,7 @@
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="#">
+          <a class="nav-link" href="{{route('orden.index')}}">
             <i class="fas fa-fw fa-shopping-cart"></i>
             <span>Órdenes</span></a>
         </li>

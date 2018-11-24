@@ -154,9 +154,11 @@ class PresupuestoController extends Controller
        // $this->validate($request,[ 'nombre'=>'required', 'resumen'=>'required', 'npagina'=>'required', 'edicion'=>'required', 'autor'=>'required', 'npagina'=>'required', 'precio'=>'required']);
  
 
+        DB::table('presupuesto')
+        ->where('id_presupuesto',$id)
+        ->update(['precio_presupuesto'=>$request->precio_presupuesto]);
 
-        Presupuesto::find($id)->update($request->all());
-        
+
         return redirect()->route('presupuesto.index')->with('success','Registro actualizado satisfactoriamente');
   //
     }

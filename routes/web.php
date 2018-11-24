@@ -79,6 +79,10 @@ Route::resource('presupuesto', 'PresupuestoController');
 
 Route::resource('panel', 'PanelController');
 
+Route::post('/orden/{id}','OrdenController@update')->name('orden.update');
+Route::get('/orden/index','OrdenController@create')->name('orden.create');
+Route::resource('orden', 'OrdenController');
+
 // Selects en Cascada https://www.youtube.com/watch?v=FY6Pmrmz0Ws
 
 Route::get('/ajax-subcat',function(){

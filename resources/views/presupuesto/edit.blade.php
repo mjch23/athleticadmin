@@ -26,6 +26,9 @@
 
         <div class="col-md-3 mb-3">
 
+                <label for="validationDefaultUsername">Orden de Trabajo Nro:</label>
+                <input class="form-control" type="text" id="id_orden" name="id_orden" readonly value="{{$presupuestos->id_orden}}" />
+
         </div>
 
             <div class="col-md-3 mb-3">
@@ -72,7 +75,16 @@
                                 <input id="cantidad_pp" name="cantidad_pp" class="form-control" type="number" placeholder="Cantidad" value="1" min="1" step="1" required>
                             </div>
 
+                            @if($presupuestos->id_orden!=NULL)
 
+                                  <div class="col-md-1 mb-3">
+                                    <label for="validationDefaultUsername">Agregar</label>            
+                                    <button class="btn btn-secondary" disabled>
+                                    <span class="fas fa-plus-square"></span>
+                                    </button>
+                                  </div>
+
+                            @else
 
                                   <div class="col-md-1 mb-3">
                                     <label for="validationDefaultUsername">Agregar</label>            
@@ -81,6 +93,7 @@
                                     </button>
                                   </div>
 
+                            @endif
 
                   </div>
 
@@ -118,12 +131,24 @@
             <td>{{$item->nombre_producto}}</td>
             <td>{{$item->cantidad_pp}}</td>
             <td>$ {{$item->precio_unitario_pp}}</td>
-            <td>$ {{$item->precio_total_pp}}</td>                        
+            <td>$ {{$item->precio_total_pp}}</td>    
+
+            @if($presupuestos->id_orden!=NULL)
+
+              <td>
+              <button class="btn btn-secondary" type="submit" disabled>
+              <span class="fas fa-trash-alt"></span>
+              </button>
+
+            @else
+
               <td>
               <button class="delete-modal btn btn-danger"
                 data-id="{{$item->id_pp}}" data-name="{{$item->nombre_producto}}">
                 <span class="far fa-trash-alt"></span>
               </button></td>
+
+            @endif
           </tr>
             @endif
           @endforeach
@@ -138,8 +163,7 @@
  <div class="card">
   <div class="card-body">
 
-  <form method="POST" action="{{ route('presupuesto.update', $presupuestos->id_presupuesto) }}"  role="form">
-             {{ csrf_field() }}
+
 
 <div class="row">
 
@@ -155,18 +179,38 @@
     </div>
 
     <div class="col-6 col-md-2">
-            <label for="validationDefaultUsername">Confirmar</label>
-                <div class="form-check">
-      <input class="form-check-input" type="checkbox" value="1" id="aprobada_presupuesto" name="aprobada_presupuesto">
-      <label class="form-check-label" for="aprobada_presupuesto">
-        Convertir a Orden
-      </label>
-    </div>
+
+ <!-- <form method="GET" action="{{ route('orden.create', $presupuestos->id_presupuesto) }}"  role="form">
+             {{ csrf_field() }}
+
+            <input class="form-control" type="text" id="id_presupuesto" name="id_presupuesto" readonly value="{{$presupuestos->id_presupuesto}}" hidden/>  -->
+
+            <label for="validationDefaultUsername">Convertir a Orden</label>
+
+
+            @if($presupuestos->id_orden!=NULL || $precio_presupuesto==0)
+
+            <button class="btn btn-secondary" type="submit" disabled>
+            <span class="far fa-check-square"></span> Confirmar
+
+            @else
+
+            <button class="btn btn-success" type="submit" data-toggle="modal" data-target="#exampleModalCenter-{{$presupuestos->id_presupuesto}}">
+            <span class="far fa-check-square"></span> Confirmar
+
+            @endif
+
 
     </div>
+
 
     <div class="col-6 col-md-4">
+
+
+  <form method="POST" action="{{ route('presupuesto.update', $presupuestos->id_presupuesto) }}"  role="form">
+             {{ csrf_field() }}
       
+
                <label for="validationDefaultUsername">Total sin IVA</label>
                 <input class="form-control" type="text" id="precio_presupuesto" name="precio_presupuesto" readonly value="{{$precio_presupuesto}}" />
 
@@ -175,8 +219,14 @@
     <div class="col-6 col-md-2">
 
         <label for="validationDefaultUsername">Grabar Presupuesto</label>
+
+            @if($presupuestos->id_orden!=NULL)
+            <button class="btn btn-secondary" type="submit" disabled>
+            <span class="far fa-save"></span> Grabar
+            @else
             <button class="btn btn-primary" type="submit">
             <span class="far fa-save"></span> Grabar
+            @endif
     </div>
 
     </form>
@@ -257,6 +307,38 @@
 </div>
 
 </div>
+
+   <!-- Modal Orden-->
+
+
+            <div class="modal fade" id="exampleModalCenter-{{$presupuestos->id_presupuesto}}" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+               <div class="modal-dialog" role="document">
+                   <div class="modal-content">
+                     <div class="modal-header">
+                         <h5 class="modal-title" id="exampleModalCenterTitle">¡Atención!</h5>
+                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                         </button>
+                       </div>
+                     <div class="modal-body"> Se va a convertir el Presupuesto a Orden de Trabajo. El Presupuesto ya no se podrá modificar, aunque si se podrá seguir imprimiendo.
+                      </div>
+                        <div class="modal-footer">
+                       <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+
+  <form method="GET" action="{{ route('orden.create', $presupuestos->id_presupuesto) }}"  role="form">
+             {{ csrf_field() }}
+
+            <input class="form-control" type="text" id="id_presupuesto" name="id_presupuesto" readonly value="{{$presupuestos->id_presupuesto}}" hidden/>  
+
+               <button type="submit" class="btn btn-info">Convertir a Orden</button>
+
+
+           </div>
+
+             </form>
+                         
+          </div>
+       </div> 
 
 
 <script>

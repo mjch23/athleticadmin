@@ -66,9 +66,19 @@ class ClienteController extends Controller
             ->orderBy('id_presupuesto','DESC')
             ->get();
 
+            $ordenes=DB::table('orden')
+            ->leftjoin('presupuesto', 'orden.id_presupuesto', '=', 'presupuesto.id_presupuesto')
+            ->leftjoin('clientes','presupuesto.id_cliente','=','clientes.id')
+            ->join('estado','orden.id_estado','=','estado.id_estado')
+            ->select('*')
+            ->where('orden.inactivo',NULL)
+             ->where('clientes.id',$id)           
+            ->orderBy('orden.id_orden','DESC')
+            ->get(); 
+
 
         $clientes=Cliente::find($id);
-        return  view('clientes.show',compact('clientes','presupuestos'));  //
+        return  view('clientes.show',compact('clientes','presupuestos','ordenes'));  //
     }
 
     /**
