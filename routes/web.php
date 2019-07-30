@@ -20,6 +20,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('newborn', function () {
+    return view('newborn');
+});
+
 Route::get('dashboard', function () {
     return view('dashboard');
 })->name('dashboard');

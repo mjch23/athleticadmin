@@ -66,6 +66,9 @@
           <a class="js-scroll-trigger" href="#contact">Contacto</a>
         </li>
         <li class="sidebar-nav-item">
+          <a class="js-scroll-trigger" href="{{ asset('newborn') }}" target="_blank">Presupuesto</a>
+        </li>
+        <li class="sidebar-nav-item">
           <a class="js-scroll-trigger" href="{{ route('login') }}">Acceso Clientes</a>
         </li>
       </ul>
