@@ -28,6 +28,10 @@ Route::get('quince', function () {
     return view('quince');
 });
 
+Route::get('egresados', function () {
+    return view('egresados');
+});
+
 Route::get('dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
