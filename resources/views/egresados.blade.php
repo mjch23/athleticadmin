@@ -43,36 +43,39 @@
 
 <div class="container-fluid">
 
-<div class="card bg-dark text-white">
-
-<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/Book-62.jpg" class="img-fluid" alt="Responsive image">
-
-<div class="card-img-overlay">
-  <h1 class="card-title"> Egresados </h1>
-</div>
-</div>
-
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/Book-19.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/1%20pagina%202.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/Book-36.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/2%20pagina%202.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/Fiesta-212.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/3%20pagina%202.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/Fiesta-266.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/4%20pagina%202.jpg" class="img-fluid" alt="Responsive image">
+
+</div>
+
+<div class="card">
+
+<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/5%20pagina.jpg" class="img-fluid" alt="Responsive image">
+
+</div>
+
+<div class="card">
+
+<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/6%20pagina.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 

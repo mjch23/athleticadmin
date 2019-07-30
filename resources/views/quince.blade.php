@@ -43,33 +43,30 @@
 
 <div class="container-fluid">
 
-<div class="card bg-dark text-white">
-
-<img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Lucia-33.jpg" class="img-fluid" alt="Responsive image">
-
-<div class="card-img-overlay">
-  <h1 class="card-title"> Sesiones de Quince </h1>
-</div>
-</div>
-
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Priscila-41.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Book_15/1%20pagina.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Rocio-89.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Book_15/2%20pagina.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Lucia-23.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Book_15/3%20pagina.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
+<div class="card">
+
+<img src="https://storage.lorenafariasfotografia.com.ar/Book_15/4%20pagina.jpg" class="img-fluid" alt="Responsive image">
+
+</div>
+<!--
 <div class="card">
 
 <img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Lucia-80.jpg" class="img-fluid" alt="Responsive image">
@@ -93,7 +90,7 @@
 
 </div>
 </div>
-
+!-->
 
 
 <br>
