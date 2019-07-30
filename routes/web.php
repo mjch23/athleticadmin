@@ -32,6 +32,10 @@ Route::get('egresados', function () {
     return view('egresados');
 });
 
+Route::get('fiesta15', function () {
+    return view('fiesta15');
+});
+
 Route::get('dashboard', function () {
     return view('dashboard');
 })->name('dashboard');

@@ -45,56 +45,42 @@
 
 <div class="card bg-dark text-white">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Lucia-33.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Fiesta Lucia-1.jpg" class="img-fluid" alt="Responsive image">
 
 <div class="card-img-overlay">
-  <h1 class="card-title"> Sesiones de Quince </h1>
+  <h1 class="card-title"> Fiesta de Quince </h1>
 </div>
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Priscila-41.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Fiesta Lucia-398.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Rocio-89.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Fiesta Lucia-175.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Lucia-23.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Fiesta Lucia-374.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Lucia-80.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Fiesta Lucia-57.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
-<br>
-<br>
-
-<div class="card-deck">
 <div class="card">
-<video width="640" height="480" controls>
-      <source src="https://storage.lorenafariasfotografia.com.ar/Book_15/Luc%C3%ADa%20Tossi%2015%20a%C3%B1os.mp4" type="video/mp4"> Su navegador no puede reproducir Vídeo
-</video>
+
+<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Fiesta Lucia-258.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
-<div class="card">
-<video width="640" height="480" controls>
-      <source src="https://storage.lorenafariasfotografia.com.ar/Book_15/Lucia_book_15.mp4" type="video/mp4"> Su navegador no puede reproducir Vídeo
-</video>
-
-</div>
-</div>
-
-
 
 <br>
 <br> 
@@ -102,34 +88,38 @@
 
 <div class="card-deck">
   <div class="card">
-    <img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Rocio-44.jpg" class="card-img-top" alt="...">
+    <img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Fiesta Lucia-25.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Básico: $2200</h5>
-      <p class="card-text">•  Link de descarga con alrededor de 80 fotografías seleccionadas y editadas</p>
-      <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text">•  Video del Bacsktage (opcional): $1500 </p>      
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/08/2019</small></p>
+      <h5 class="card-title">Paquete Básico: $1000 x alumno (mín. 18)</h5>
+      <p class="card-text">•  Cobertura de pre-Fiesta </p> 
+      <p class="card-text">•  Cobertura de Fiesta </p>       
+      <p class="card-text">•  Link de descarga</p>
+      <p class="card-text">•  5 impresiones 15x21 </p>     
+      <p class="card-text"><small class="text-muted">Fotos + Videos. Precio Válido hasta el 31/08/2019</small></p>
     </div>
   </div>
   <div class="card">
-    <img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Priscila-66.jpg" class="card-img-top" alt="...">
+    <img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Fiesta Lucia-107.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Especial: $2700</h5>
-      <p class="card-text">•  Pendrive con alrededor de 80 fotografías seleccionadas y editadas</p>
-      <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text">•  Video del Bacsktage (opcional): $1500 </p>      
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/08/2019</small></p>
+      <h5 class="card-title">Paquete Especial: $1400 x alumno (mín. 18) </h5>
+      <p class="card-text">•  Book previo + backstage (vídeo para la Fiesta) </p>       
+      <p class="card-text">•  Cobertura de pre-Fiesta </p> 
+      <p class="card-text">•  Cobertura de Fiesta</p>     
+      <p class="card-text">•  1 pendrive por alumno</p>
+      <p class="card-text">•  5 impresiones 15x21 </p>     
+      <p class="card-text"><small class="text-muted">Fotos + Videos. Precio Válido hasta el 31/08/2019</small></p>
     </div>
   </div>
   <div class="card">
-    <img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Lucia-39.jpg" class="card-img-top" alt="...">
+    <img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Fiesta Lucia-576.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Premium: $4000</h5>
-      <p class="card-text">•  Pendrive con alrededor de 80 fotografías seleccionadas y editadas</p>
-      <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text">•  Fotolibro 15 x 22 de 8 hojas </p>
-      <p class="card-text">•  Video del Bacsktage (opcional): $1500 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/08/2019</small></p>
+      <h5 class="card-title">Paquete Especial: $1400 x alumno (mín. 18) </h5>
+      <p class="card-text">•  Book previo + backstage (vídeo para la Fiesta) </p>       
+      <p class="card-text">•  Cobertura de pre-Fiesta </p> 
+      <p class="card-text">•  Cobertura de Fiesta</p>     
+      <p class="card-text">•  1 pendrive por alumno</p>
+      <p class="card-text">•  5 impresiones 15x21 </p>     
+      <p class="card-text"><small class="text-muted">Fotos + Videos. Precio Válido hasta el 31/08/2019</small></p>
     </div>
   </div>
 </div>
@@ -140,7 +130,7 @@
 <div class="card text-center">
   <div class="card-header"><h5>Formas de Pago y Entrega del Trabajo</h5></div>
   <div class="card-body">
-    <p class="card-text">Seña 30% para reservar (efectivo o transferencia bancaria). Saldo el día de la sesión</p>
+    <p class="card-text">Seña 30% para reservar (efectivo o transferencia bancaria) / 60% antes de la Fiesta / 10% contraentrega de material</p>
     <p class="card-text">El material editado tiene un tiempo de entrega de 20 días desde la sesión y de 15 días para las impresiones una vez elegidas las imágenes.</p>
     <p class="card-text">En la sesión debe estar siempre presente un adulto.</p>
  <!--   <a href="#" class="btn btn-primary">Go somewhere</a> -->
