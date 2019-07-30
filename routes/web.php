@@ -24,6 +24,10 @@ Route::get('newborn', function () {
     return view('newborn');
 });
 
+Route::get('quince', function () {
+    return view('quince');
+});
+
 Route::get('dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
