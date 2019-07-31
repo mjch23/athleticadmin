@@ -179,7 +179,7 @@
                   <p class="mb-0">Una sesión en la que Emilia compartió su pasión por la música</p>
                 </span>
               </span>
-              <img class="img-fluid" src="img/portfolio-1.jpg" alt="">
+              <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Pagina_Principal/portfolio-1.jpg" alt="">
             </a>
           </div>
           <div class="col-lg-6">
@@ -190,7 +190,7 @@
                   <p class="mb-0">Las Conejos de Nunny Galletti, puro talento</p>
                 </span>
               </span>
-              <img class="img-fluid" src="img/portfolio-2.JPG" alt="">
+              <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Pagina_Principal/portfolio-2.JPG" alt="">
             </a>
           </div>
           <div class="col-lg-6">
@@ -201,7 +201,7 @@
                   <p class="mb-0">Momentos únicos en el Balneario de Almafuerte</p>
                 </span>
               </span>
-              <img class="img-fluid" src="img/portfolio-3.JPG" alt="">
+              <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Pagina_Principal/portfolio-3.JPG" alt="">
             </a>
           </div>
           <div class="col-lg-6">
@@ -212,7 +212,7 @@
                   <p class="mb-0">Ojitos abiertos explorando el nuevo mundo</p>
                 </span>
               </span>
-              <img class="img-fluid" src="img/portfolio-4.JPG" alt="">
+              <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Pagina_Principal/portfolio-4.JPG" alt="">
             </a>
           </div>
           <div class="col-lg-6">
@@ -223,7 +223,7 @@
                   <p class="mb-0">Sesión Futura Mamá</p>
                 </span>
               </span>
-              <img class="img-fluid" src="img/portfolio-5.JPG" alt="">
+              <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Pagina_Principal/portfolio-5.JPG" alt="">
             </a>
           </div>
           <div class="col-lg-6">
@@ -234,7 +234,7 @@
                   <p class="mb-0">Sol, naturaleza y amor en una sola foto</p>
                 </span>
               </span>
-              <img class="img-fluid" src="img/portfolio-6.JPG" alt="">
+              <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Pagina_Principal/portfolio-6.JPG" alt="">
             </a>
           </div>
 
