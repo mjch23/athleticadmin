@@ -45,37 +45,37 @@
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/1%203.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/1%202.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/2%203.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/2%202.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/3%203.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/3%202.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/4%203.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/4%202.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/5%203.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/5%202.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/6%203.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/6%202.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
@@ -85,31 +85,30 @@
 
 <div class="card-deck">
   <div class="card">
-    <img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Precio%204.jpg" class="card-img-top" alt="...">
+    <img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/Precio%201.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Básico: $12000</h5>
-      <p class="card-text">• Pendrive con las fotos y una edición de video resumen de los mejores momentos de la fiesta de alrededor de 20 a 30 min. </p> 
-      <p class="card-text">• 50 impresiones 15x21 </p>     
+      <h5 class="card-title">Paquete Básico: $1800</h5>
+      <p class="card-text">• Link descarga </p> 
+      <p class="card-text">• 5 impresiones 15x21 </p>     
       <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/08/2019</small></p>
     </div>
   </div>
   <div class="card">
-    <img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Precio%205.jpg" class="card-img-top" alt="...">
+    <img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/Precio%202.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Especial: $14000</h5>
-      <p class="card-text">• Book de 15 (fotos + vídeos)</p>       
-      <p class="card-text">• Pendrive con las fotos y una edición de video resumen de los mejores momentos de la fiesta de alrededor de 20 a 30 min. </p> 
-      <p class="card-text">• 50 impresiones 15x21 </p>     
+      <h5 class="card-title">Paquete Especial: $2100</h5>
+      <p class="card-text">• Pendrive con las fotos</p>       
+      <p class="card-text">• 5 impresiones 15x21 </p>     
       <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/08/2019</small></p>
     </div>
   </div>
   <div class="card">
-    <img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Precio%206.jpg" class="card-img-top" alt="...">
+    <img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/Precio%203.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Especial: $16500</h5>
-      <p class="card-text">• Book de 15 (fotos + vídeos)</p>       
-      <p class="card-text">• Pendrive con las fotos y una edición de video resumen de los mejores momentos de la fiesta de alrededor de 20 a 30 min. </p> 
-      <p class="card-text">• Fotolibro 20x30 de 15 hojas </p>     
+      <h5 class="card-title">Paquete Especial: $2800</h5>
+      <p class="card-text">• Pendrive con las fotos</p>       
+      <p class="card-text">• 5 impresiones 15x21 </p> 
+      <p class="card-text">• Cuadro de 20x30 </p>     
       <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/08/2019</small></p>
     </div>
   </div>
@@ -121,7 +120,7 @@
 <div class="card text-center">
   <div class="card-header"><h5>Formas de Pago y Entrega del Trabajo</h5></div>
   <div class="card-body">
-    <p class="card-text">Seña 30% para reservar (efectivo o transferencia bancaria) / 60% antes de la Fiesta / 10% contraentrega de material</p>
+    <p class="card-text">Seña 30% para reservar (efectivo o transferencia bancaria). Saldo el día de la sesión. </p>
     <p class="card-text">El material editado tiene un tiempo de entrega de 20 días desde la sesión y de 15 días para las impresiones una vez elegidas las imágenes.</p>
     <p class="card-text">En la sesión debe estar siempre presente un adulto.</p>
  <!--   <a href="#" class="btn btn-primary">Go somewhere</a> -->

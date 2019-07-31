@@ -36,6 +36,10 @@ Route::get('fiesta15', function () {
     return view('fiesta15');
 });
 
+Route::get('sesioncumple', function () {
+    return view('sesioncumple');
+});
+
 Route::get('dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
