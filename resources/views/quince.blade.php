@@ -120,7 +120,7 @@
       <p class="card-text">•  Link de descarga con alrededor de 80 fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
       <p class="card-text">•  Video del Bacsktage (opcional): $1500 </p>      
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/08/2019</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
     </div>
   </div>
   <div class="card">
@@ -130,7 +130,7 @@
       <p class="card-text">•  Pendrive con alrededor de 80 fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
       <p class="card-text">•  Video del Bacsktage (opcional): $1500 </p>      
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/08/2019</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
     </div>
   </div>
   <div class="card">
@@ -141,7 +141,7 @@
       <p class="card-text">•  10 impresiones 15x21 </p>
       <p class="card-text">•  Fotolibro 15 x 22 de 8 hojas </p>
       <p class="card-text">•  Video del Bacsktage (opcional): $1500 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/08/2019</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
     </div>
   </div>
 </div>

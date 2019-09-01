@@ -105,7 +105,7 @@
       <h5 class="card-title">Paquete Básico: $2800</h5>
       <p class="card-text">•  Link de descarga con alrededor de 20 fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/08/2019</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
     </div>
   </div>
   <div class="card">
@@ -114,7 +114,7 @@
       <h5 class="card-title">Paquete Especial: $3100</h5>
       <p class="card-text">•  Pendrive con alrededor de 20 fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/08/2019</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
     </div>
   </div>
   <div class="card">
@@ -124,7 +124,7 @@
       <p class="card-text">•  Pendrive con alrededor de 20 fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
       <p class="card-text">•  1 cuadro de 20 x 30 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/08/2019</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
     </div>
   </div>
 </div>

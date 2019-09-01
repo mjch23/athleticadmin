@@ -107,7 +107,7 @@
       <p class="card-text">•  Cobertura de Fiesta </p>       
       <p class="card-text">•  Link de descarga</p>
       <p class="card-text">•  5 impresiones 15x21 </p>     
-      <p class="card-text"><small class="text-muted">Fotos + Videos. Precio Válido hasta el 31/08/2019</small></p>
+      <p class="card-text"><small class="text-muted">Fotos + Videos. Precio Válido hasta el 30/09/2019</small></p>
     </div>
   </div>
   <div class="card">
@@ -119,7 +119,7 @@
       <p class="card-text">•  Cobertura de Fiesta</p>     
       <p class="card-text">•  1 pendrive por alumno</p>
       <p class="card-text">•  5 impresiones 15x21 </p>     
-      <p class="card-text"><small class="text-muted">Fotos + Videos. Precio Válido hasta el 31/08/2019</small></p>
+      <p class="card-text"><small class="text-muted">Fotos + Videos. Precio Válido hasta el 30/09/2019</small></p>
     </div>
   </div>
 </div>
