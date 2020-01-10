@@ -100,31 +100,44 @@
 
 <div class="card-deck">
   <div class="card">
-    <img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Precio%204.jpg" class="card-img-top" alt="...">
+    <!--<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Precio%204.jpg" class="card-img-top" alt="...">-->
+
+    <div class="embed-responsive embed-responsive-16by9">
+    <video controls controlsList="nodownload" class="embed-responsive-item" src="https://onedrive.live.com/download?cid=547352ECF1ABAC52&resid=547352ECF1ABAC52%211823&authkey=AAyUyQhjwf66FSM"></video>
+    </div>
+
     <div class="card-body">
-      <h5 class="card-title">Paquete Básico: $12000</h5>
-      <p class="card-text">• Pendrive con las fotos y una edición de video resumen de los mejores momentos de la fiesta de alrededor de 20 a 30 min. </p> 
-      <p class="card-text">• 50 impresiones 15x21 </p>     
+      <h5 class="card-title">Paquete Básico: $17000</h5>
+      <p class="card-text">• Book de 15 (fotos + vídeos)</p>   
+      <p class="card-text">• Pendrive con las fotos y una edición de video resumen de los mejores momentos de la fiesta de alrededor de 15 a 20 min. </p>   
       <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
     </div>
   </div>
   <div class="card">
-    <img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Precio%205.jpg" class="card-img-top" alt="...">
+    <!--<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Precio%205.jpg" class="card-img-top" alt="...">-->
+
+        <div class="embed-responsive embed-responsive-16by9">
+    <video controls controlsList="nodownload" class="embed-responsive-item" src="https://onedrive.live.com/download?cid=547352ECF1ABAC52&resid=547352ECF1ABAC52%211822&authkey=AM0XhY2KxC2rxhE"></video>
+    </div>
+
     <div class="card-body">
-      <h5 class="card-title">Paquete Especial: $14000</h5>
-      <p class="card-text">• Book de 15 (fotos + vídeos)</p>       
-      <p class="card-text">• Pendrive con las fotos y una edición de video resumen de los mejores momentos de la fiesta de alrededor de 20 a 30 min. </p> 
-      <p class="card-text">• 50 impresiones 15x21 </p>     
+      <h5 class="card-title">Paquete Especial: $22000</h5>
+      <p class="card-text">• Book de 15 (fotos + vídeos)</p>      
+      <p class="card-text">• Incluye edición de Vídeo de Recuerdos</p>    
+      <p class="card-text">• Pendrive con las fotos y una edición de video resumen de los mejores momentos de la fiesta de alrededor de 15 a 20 min. </p> 
+      <p class="card-text">• Fotolibro de 20x30 con tapa de cuero</p>     
       <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
     </div>
   </div>
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Precio%206.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Especial: $16500</h5>
-      <p class="card-text">• Book de 15 (fotos + vídeos)</p>       
-      <p class="card-text">• Pendrive con las fotos y una edición de video resumen de los mejores momentos de la fiesta de alrededor de 20 a 30 min. </p> 
-      <p class="card-text">• Fotolibro 20x30 de 15 hojas </p>     
+      <h5 class="card-title">Paquete Premium: $26000</h5>
+      <p class="card-text">• Book de 15 (fotos + vídeos)</p>     
+      <p class="card-text">• Incluye edición de Vídeo de Recuerdos</p>   
+      <p class="card-text">• Pendrive con las fotos y una edición de video resumen de los mejores momentos de la fiesta de alrededor de 15 a 20 min. </p> 
+      <p class="card-text">• Fotolibro 25x25 de 10 hojas del Book </p>  
+      <p class="card-text">• Fotolibro 20x30 de 20 hojas con tapa de cuero de la Fiesta </p>     
       <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
     </div>
   </div>

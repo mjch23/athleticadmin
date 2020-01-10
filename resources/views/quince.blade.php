@@ -114,34 +114,38 @@
 
 <div class="card-deck">
   <div class="card">
-    <img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Rocio-44.jpg" class="card-img-top" alt="...">
+    <!--<img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Rocio-44.jpg" class="card-img-top" alt="...">-->
+    <div class="embed-responsive embed-responsive-16by9">
+    <video controls controlsList="nodownload" class="embed-responsive-item" src="https://onedrive.live.com/download?cid=547352ECF1ABAC52&resid=547352ECF1ABAC52%211822&authkey=AM0XhY2KxC2rxhE"></video>
+    </div>
     <div class="card-body">
-      <h5 class="card-title">Paquete Básico: $2200</h5>
-      <p class="card-text">•  Link de descarga con alrededor de 80 fotografías seleccionadas y editadas</p>
+      <h5 class="card-title">Paquete Básico: $4200</h5>
+      <p class="card-text">•  Pendrive con fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text">•  Video del Bacsktage (opcional): $1500 </p>      
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
+      <p class="card-text">•  Video del Bacsktage </p>      
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
     </div>
   </div>
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Priscila-66.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Especial: $2700</h5>
-      <p class="card-text">•  Pendrive con alrededor de 80 fotografías seleccionadas y editadas</p>
-      <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text">•  Video del Bacsktage (opcional): $1500 </p>      
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
+      <h5 class="card-title">Paquete Especial: $4900</h5>
+      <p class="card-text">•  Pendrive con fotografías seleccionadas y editadas</p>
+      <p class="card-text">•  10 impresiones 15x21 </p>      
+      <p class="card-text">•  Cuadro de 30x40</p>
+      <p class="card-text">•  Video del Bacsktage </p>      
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
     </div>
   </div>
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Book_15/Lucia-39.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Premium: $4000</h5>
-      <p class="card-text">•  Pendrive con alrededor de 80 fotografías seleccionadas y editadas</p>
-      <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text">•  Fotolibro 15 x 22 de 8 hojas </p>
-      <p class="card-text">•  Video del Bacsktage (opcional): $1500 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
+      <h5 class="card-title">Paquete Premium: $8000</h5>
+      <p class="card-text">•  Pendrive con fotografías seleccionadas y editadas</p>
+      <p class="card-text">•  Cuadro de 30x40</p>
+      <p class="card-text">•  Fotolibro 20x30 de 10 hojas con tapa de cuero</p>
+      <p class="card-text">•  Video del Bacsktage </p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
     </div>
   </div>
 </div>
