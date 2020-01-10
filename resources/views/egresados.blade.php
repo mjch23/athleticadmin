@@ -60,10 +60,10 @@
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/1%20pagina%202.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/Egresados%202020%20portada.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
-
+<!--
 <div class="card">
 
 <img src="https://storage.lorenafariasfotografia.com.ar/Egresados/2%20pagina%202.jpg" class="img-fluid" alt="Responsive image">
@@ -92,46 +92,152 @@
 
 <img src="https://storage.lorenafariasfotografia.com.ar/Egresados/6%20pagina.jpg" class="img-fluid" alt="Responsive image">
 
-</div>
+</div>-->
 
 <br>
-<br> 
 
+  <!-- Portfolio Section -->
+  <section id="portfolio">
+    <div class="container-fluid p-0">
+      <div class="row no-gutters">
+        <div class="col-lg-4 col-sm-6">
+          <a class="card" href="https://storage.lorenafariasfotografia.com.ar/Egresados/Comer19-75.jpg">
+            <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Egresados/Comer19-75.jpg" alt="">
+            <div class="portfolio-box-caption">
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="card" href="https://storage.lorenafariasfotografia.com.ar/Egresados/Comer19-56.jpg">
+            <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Egresados/Comer19-56.jpg" alt="">
+            <div class="portfolio-box-caption">
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="card" href="https://storage.lorenafariasfotografia.com.ar/Egresados/Nat19-12.jpg">
+            <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Egresados/Nat19-12.jpg" alt="">
+            <div class="portfolio-box-caption">
+            </div>
+          </a>
+        </div>
+      <div class="col-lg-4 col-sm-6">
+          <a class="card" href="https://storage.lorenafariasfotografia.com.ar/Egresados/Fiesta-39.jpg">
+            <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Egresados/Fiesta-39.jpg" alt="">
+            <div class="portfolio-box-caption">
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="card" href="https://storage.lorenafariasfotografia.com.ar/Egresados/Promo19%20-%20IPEM299-47.jpg">
+            <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Egresados/Promo19%20-%20IPEM299-47.jpg" alt="">
+            <div class="portfolio-box-caption">
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="card" href="https://storage.lorenafariasfotografia.com.ar/Egresados/Promo19%20-%20IPEM299-66.jpg">
+            <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Egresados/Promo19%20-%20IPEM299-66.jpg" alt="">
+            <div class="portfolio-box-caption">
+            </div>
+          </a>
+        </div>
+      <div class="col-lg-4 col-sm-6">
+          <a class="card" href="https://storage.lorenafariasfotografia.com.ar/Egresados/Fiesta-266.jpg">
+            <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Egresados/Fiesta-266.jpg" alt="">
+            <div class="portfolio-box-caption">
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="card" href="https://storage.lorenafariasfotografia.com.ar/Egresados/Promo19%20-%20IPEM299-107.jpg">
+            <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Egresados/Promo19%20-%20IPEM299-107.jpg" alt="">
+            <div class="portfolio-box-caption">
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <a class="card" href="https://storage.lorenafariasfotografia.com.ar/Egresados/Promo19%20-%20IPEM299-285.jpg">
+            <img class="img-fluid" src="https://storage.lorenafariasfotografia.com.ar/Egresados/Promo19%20-%20IPEM299-285.jpg" alt="">
+            <div class="portfolio-box-caption">
+            </div>
+          </a>
+        </div>
+
+
+
+      </div>
+    </div>
+  </section>
+
+<br>
 
 <div class="card-deck">
   <div class="card">
-    <img src="https://storage.lorenafariasfotografia.com.ar/Egresados/Book-61.jpg" class="card-img-top" alt="...">
+   <!-- <img src="https://storage.lorenafariasfotografia.com.ar/Egresados/Book-61.jpg" class="card-img-top" alt="..."> -->
+<div class="embed-responsive embed-responsive-16by9">
+    <video controls controlsList="nodownload" class="embed-responsive-item" src="https://onedrive.live.com/download?cid=547352ECF1ABAC52&resid=547352ECF1ABAC52%211814&authkey=AHjzP4mY42DwLNQ"></video>
+  </div>
     <div class="card-body">
-      <h5 class="card-title">Paquete Básico: $1000 x alumno (mín. 18)</h5>
-      <p class="card-text">•  Cobertura de pre-Fiesta </p> 
-      <p class="card-text">•  Cobertura de Fiesta </p>       
-      <p class="card-text">•  Link de descarga</p>
-      <p class="card-text">•  5 impresiones 15x21 </p>     
-      <p class="card-text"><small class="text-muted">Fotos + Videos. Precio Válido hasta el 30/09/2019</small></p>
+      <h5 class="card-title">Paquete Básico: $1100 x alumno (mín. 16)</h5>
+      <p class="card-text">•  Cobertura fotográfica y en vídeo de pre-Fiesta </p> 
+      <p class="card-text">•  Cobertura fotográfica y en vídeo de la Fiesta </p>       
+      <p class="card-text">•  Link de descarga</p>   
+      <p class="card-text"> Este paquete incluye Edición de Video de Recuerdos</p>
+      <p class="card-text"><small class="text-muted">Entrega en pendrive + 5 Impresiones 15x21 = $600 adicionales (la contratación de esta opción puede ser individual)</small></p>
+      <p class="card-text"><small class="text-muted">Si el curso es de más de 25 egresados, consultar por condiciones especiales</small></p>
+      <p class="card-text"><small class="text-muted">Precios Válidos hasta el 31/03/2020</small></p>
     </div>
   </div>
   <div class="card">
-    <img src="https://storage.lorenafariasfotografia.com.ar/Egresados/Book-68.jpg" class="card-img-top" alt="...">
+<div class="embed-responsive embed-responsive-16by9">
+    <video controls controlsList="nodownload" class="embed-responsive-item" src="https://onedrive.live.com/download?cid=547352ECF1ABAC52&resid=547352ECF1ABAC52%211821&authkey=AC1m3mX90Gs0VIo"></video>
+</div>
+    <!--<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/Book-68.jpg" class="card-img-top" alt="...">-->
     <div class="card-body">
-      <h5 class="card-title">Paquete Especial: $1400 x alumno (mín. 18) </h5>
+      <h5 class="card-title">Paquete Especial: $1400 x alumno (mín. 16) </h5>
       <p class="card-text">•  Book previo + backstage (vídeo para la Fiesta) </p>       
-      <p class="card-text">•  Cobertura de pre-Fiesta </p> 
-      <p class="card-text">•  Cobertura de Fiesta</p>     
-      <p class="card-text">•  1 pendrive por alumno</p>
-      <p class="card-text">•  5 impresiones 15x21 </p>     
-      <p class="card-text"><small class="text-muted">Fotos + Videos. Precio Válido hasta el 30/09/2019</small></p>
+      <p class="card-text">•  Cobertura fotográfica y en vídeo de pre-Fiesta </p> 
+      <p class="card-text">•  Cobertura fotográfica y en vídeo de la Fiesta</p>    
+      <p class="card-text">•  Link de descarga</p>    
+      <p class="card-text"> Este paquete incluye Edición de Video de Recuerdos</p>
+      <p class="card-text"><small class="text-muted">Entrega en pendrive + 5 Impresiones 15x21 = $600 adicionales (la contratación de esta opción puede ser individual)</small></p>
+      <p class="card-text"><small class="text-muted">Si el curso es de más de 25 egresados, consultar por condiciones especiales</small></p>
+      <p class="card-text"><small class="text-muted">Precios Válidos hasta el 31/03/2020</small></p>
     </div>
   </div>
 </div>
 
 <br>
+
+<div class="card-deck">
+  <div class="card">
+ <img src="https://storage.lorenafariasfotografia.com.ar/Egresados/_DSC2066.jpg" class="card-img-top" alt="..."> 
+    <div class="card-body">
+      <h5 class="card-title">Bonus "Reserva Acelerada"</h5>
+      <p class="card-text">•  Señando Paquete Básico o Especial antes del 28/02/2020, cobertura de la presentación de buzos y remeras de la Promo sin cargo</p>        
+      <p class="card-text"><small class="text-muted">Promoción válida hasta el 28/02/2020</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="https://storage.lorenafariasfotografia.com.ar/Egresados/Colacion-51.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Acto de Colación ($200 por alumno) </h5>
+      <p class="card-text">•  Cobertura fotográfica del Acto Académico</p>       
+      <p class="card-text">•  Link de Descarga </p> 
+      <p class="card-text">•  2 impresiones 15x21 (foto individual y grupal)</p>     
+      <p class="card-text"><small class="text-muted">Precio válido sólo para Egresados que hayan contratado Paquete Básico o Especial. La reserva se realiza con la fecha del acto confirmada</small></p>
+    </div>
+  </div>
+</div>
+
 <br>
 
 <div class="card text-center">
   <div class="card-header"><h5>Formas de Pago y Entrega del Trabajo</h5></div>
   <div class="card-body">
-    <p class="card-text">Seña 30% para reservar (efectivo o transferencia bancaria) / 60% antes de la Fiesta / 10% contraentrega de material</p>
-    <p class="card-text">El material editado tiene un tiempo de entrega de 20 días desde la sesión y de 15 días para las impresiones una vez elegidas las imágenes.</p>
+    <p class="card-text">Seña 30% para reservar (efectivo o transferencia bancaria) / 70% antes de la Fiesta</p>
+    <p class="card-text">El material editado tiene un tiempo de entrega de 20 días y de 15 días para las impresiones una vez elegidas las imágenes.</p>
     <p class="card-text">En la sesión debe estar siempre presente un adulto.</p>
  <!--   <a href="#" class="btn btn-primary">Go somewhere</a> -->
   </div>
