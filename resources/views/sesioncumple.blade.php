@@ -102,29 +102,29 @@
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/Precio%201.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Básico: $1800</h5>
+      <h5 class="card-title">Paquete Básico: 2 cuotas de $1200 (1 en la reserva, 1 en la sesión)</h5>
       <p class="card-text">• Link descarga </p> 
       <p class="card-text">• 5 impresiones 15x21 </p>     
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
     </div>
   </div>
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/Precio%202.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Especial: $2100</h5>
+      <h5 class="card-title">Paquete Especial: 2 cuotas de $1400 (1 en la reserva, 1 en la sesión)</h5>
       <p class="card-text">• Pendrive con las fotos</p>       
       <p class="card-text">• 5 impresiones 15x21 </p>     
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
     </div>
   </div>
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/Precio%203.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Especial: $2800</h5>
+      <h5 class="card-title">Paquete Especial: 2 cuotas de $1700 (1 en la reserva, 1 en la sesión)</h5>
       <p class="card-text">• Pendrive con las fotos</p>       
       <p class="card-text">• 5 impresiones 15x21 </p> 
-      <p class="card-text">• Cuadro de 20x30 </p>     
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
+      <p class="card-text">• Cuadro de 30x40 </p>     
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
     </div>
   </div>
 </div>
@@ -135,7 +135,7 @@
 <div class="card text-center">
   <div class="card-header"><h5>Formas de Pago y Entrega del Trabajo</h5></div>
   <div class="card-body">
-    <p class="card-text">Seña 30% para reservar (efectivo o transferencia bancaria). Saldo el día de la sesión. </p>
+    <p class="card-text">Efectivo, tarjeta o transferencia bancaria. Saldo el día de la sesión. </p>
     <p class="card-text">El material editado tiene un tiempo de entrega de 20 días desde la sesión y de 15 días para las impresiones una vez elegidas las imágenes.</p>
     <p class="card-text">En la sesión debe estar siempre presente un adulto.</p>
  <!--   <a href="#" class="btn btn-primary">Go somewhere</a> -->

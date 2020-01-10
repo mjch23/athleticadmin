@@ -60,7 +60,7 @@
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Newborn/1.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Newborn/Pagina%20NB.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
@@ -102,29 +102,29 @@
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Newborn/Servicio1.jpeg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Básico: $2800</h5>
+      <h5 class="card-title">Paquete Básico: 3 cuotas de $1200 (1 en la reserva, 1 en la sesión, 1 en la entrega)</h5>
       <p class="card-text">•  Link de descarga con alrededor de 20 fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
     </div>
   </div>
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Newborn/Servicio2.jpeg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Especial: $3100</h5>
+      <h5 class="card-title">Paquete Especial: 3 cuotas de $1400 (1 en la reserva, 1 en la sesión, 1 en la entrega)</h5>
       <p class="card-text">•  Pendrive con alrededor de 20 fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
     </div>
   </div>
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Newborn/Servicio3.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Premium: $3600</h5>
+      <h5 class="card-title">Paquete Premium: 3 cuotas de $1600 (1 en la reserva, 1 en la sesión, 1 en la entrega)</h5>
       <p class="card-text">•  Pendrive con alrededor de 20 fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text">•  1 cuadro de 20 x 30 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
+      <p class="card-text">•  1 cuadro de 30x40 </p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
     </div>
   </div>
 </div>
@@ -135,7 +135,7 @@
 <div class="card text-center">
   <div class="card-header"><h5>Formas de Pago y Entrega del Trabajo</h5></div>
   <div class="card-body">
-    <p class="card-text">Seña 30% para reservar (efectivo o transferencia bancaria). Saldo el día de la sesión</p>
+    <p class="card-text">Efectivo, tarjeta o transferencia bancaria</p>
     <p class="card-text">El material editado tiene un tiempo de entrega de 20 días desde la sesión y de 15 días para las impresiones una vez elegidas las imágenes.</p>
  <!--   <a href="#" class="btn btn-primary">Go somewhere</a> -->
   </div>
