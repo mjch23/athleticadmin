@@ -110,7 +110,7 @@
       <h5 class="card-title">Paquete Básico: $17000</h5>
       <p class="card-text">• Book de 15 (fotos + vídeos)</p>   
       <p class="card-text">• Pendrive con las fotos y una edición de video resumen de los mejores momentos de la fiesta de alrededor de 15 a 20 min. </p>   
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
     </div>
   </div>
   <div class="card">
@@ -126,7 +126,7 @@
       <p class="card-text">• Incluye edición de Vídeo de Recuerdos</p>    
       <p class="card-text">• Pendrive con las fotos y una edición de video resumen de los mejores momentos de la fiesta de alrededor de 15 a 20 min. </p> 
       <p class="card-text">• Fotolibro de 20x30 con tapa de cuero</p>     
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
     </div>
   </div>
   <div class="card">
@@ -138,7 +138,7 @@
       <p class="card-text">• Pendrive con las fotos y una edición de video resumen de los mejores momentos de la fiesta de alrededor de 15 a 20 min. </p> 
       <p class="card-text">• Fotolibro 25x25 de 10 hojas del Book </p>  
       <p class="card-text">• Fotolibro 20x30 de 20 hojas con tapa de cuero de la Fiesta </p>     
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2019</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
     </div>
   </div>
 </div>
