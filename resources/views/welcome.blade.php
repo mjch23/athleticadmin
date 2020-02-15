@@ -2,6 +2,8 @@
 <html lang="en">
 
   <head>
+
+<meta name="p:domain_verify" content="0738c9345fb28919b64fff5290a6ad85"/>
   
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127719121-1"></script>
@@ -324,23 +326,39 @@
       <div class="container text-center">
         <h2 class="mb-4">Encontranos en nuestras redes sociales:</h2>
         <ul class="list-inline mb-5">
+
           <li class="list-inline-item">
             <a class="social-link rounded-circle text-white mr-3" href="{{ url('https://www.facebook.com/lorenafariasfotografia/') }}" target="_blank">
               <i class="icon-social-facebook"></i>
             </a>
           </li>
+
           <li class="list-inline-item">
             <a class="social-link rounded-circle text-white mr-3" href="{{ url('https://twitter.com/LoreFariasFoto') }}" target="_blank">
               <i class="icon-social-twitter"></i>
             </a>
           </li>
+
           <li class="list-inline-item">
-            <a class="social-link rounded-circle text-white" href="{{ url('https://www.instagram.com/lorenafariasfotografia/') }}" target="_blank">
+            <a class="social-link rounded-circle text-white mr-3" href="{{ url('https://www.instagram.com/lorenafariasfotografia/') }}" target="_blank">
               <i class="icon-social-instagram"></i>
             </a>
           </li>
+
+          <li class="list-inline-item">
+            <a class="social-link rounded-circle text-white mr-3" href="{{ url('https://www.pinterest.com/lorenafariasfotografia/') }}" target="_blank">
+              <i class="icon-social-pinterest"></i>
+            </a>
+          </li>
+
+          <li class="list-inline-item">
+            <a class="social-link rounded-circle text-white mr-3" href="{{ url('https://www.youtube.com/channel/UC1krvKPste3pM7t9n8vBW2Q') }}" target="_blank">
+              <i class="icon-social-youtube"></i>
+            </a>
+          </li>
+
         </ul>
-        <p class="text-muted small mb-0">Copyright &copy; Lorena Farías Fotografía 2018</p>
+        <p class="text-muted small mb-0">Copyright &copy; Lorena Farías Fotografía 2020</p>
       </div>
     </footer>
 
