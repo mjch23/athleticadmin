@@ -176,8 +176,9 @@
   <div class="card">
    <!-- <img src="https://storage.lorenafariasfotografia.com.ar/Egresados/Book-61.jpg" class="card-img-top" alt="..."> -->
 <div class="embed-responsive embed-responsive-16by9">
-    <video controls controlsList="nodownload" class="embed-responsive-item" src="https://onedrive.live.com/download?cid=547352ECF1ABAC52&resid=547352ECF1ABAC52%211814&authkey=AHjzP4mY42DwLNQ"></video>
+    <video controls controlsList="nodownload" class="embed-responsive-item" src="https://onedrive.live.com/download?cid=547352ECF1ABAC52&resid=547352ECF1ABAC52%211871&authkey=AP52f1_40ydWbrs"></video>
   </div>
+
     <div class="card-body">
       <h5 class="card-title">Paquete Básico: $1100 x alumno (mín. 16)</h5>
       <p class="card-text">•  Cobertura fotográfica y en vídeo de pre-Fiesta </p> 
@@ -193,6 +194,7 @@
 <div class="embed-responsive embed-responsive-16by9">
     <video controls controlsList="nodownload" class="embed-responsive-item" src="https://onedrive.live.com/download?cid=547352ECF1ABAC52&resid=547352ECF1ABAC52%211821&authkey=AC1m3mX90Gs0VIo"></video>
 </div>
+
     <!--<img src="https://storage.lorenafariasfotografia.com.ar/Egresados/Book-68.jpg" class="card-img-top" alt="...">-->
     <div class="card-body">
       <h5 class="card-title">Paquete Especial: $1400 x alumno (mín. 16) </h5>
