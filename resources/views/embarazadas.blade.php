@@ -60,37 +60,37 @@
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/1%202.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Embarazadas/Portada%202.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/2%202.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Embarazadas/Emb1.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/3%202.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Embarazadas/Emb2.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/4%202.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Embarazadas/Emb3%202.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/5%202.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Embarazadas/Emb4.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/6%202.jpg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Embarazadas/Emb5.jpg" class="img-fluid" alt="Responsive image">
 
 </div>
 
@@ -100,7 +100,7 @@
 
 <div class="card-deck">
   <div class="card">
-    <img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/Precio%201.jpg" class="card-img-top" alt="...">
+    <img src="https://storage.lorenafariasfotografia.com.ar/Embarazadas/Precio1.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">Paquete Básico: 2 cuotas de $1200 (1 en la reserva, 1 en la sesión)</h5>
       <p class="card-text">• Link descarga </p> 
@@ -109,7 +109,7 @@
     </div>
   </div>
   <div class="card">
-    <img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/Precio%202.jpg" class="card-img-top" alt="...">
+    <img src="https://storage.lorenafariasfotografia.com.ar/Embarazadas/Precio2.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">Paquete Especial: 2 cuotas de $1400 (1 en la reserva, 1 en la sesión)</h5>
       <p class="card-text">• Pendrive con las fotos</p>       
@@ -118,7 +118,7 @@
     </div>
   </div>
   <div class="card">
-    <img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/Precio%203.jpg" class="card-img-top" alt="...">
+    <img src="https://storage.lorenafariasfotografia.com.ar/Embarazadas/Precio3.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">Paquete Especial: 2 cuotas de $1700 (1 en la reserva, 1 en la sesión)</h5>
       <p class="card-text">• Pendrive con las fotos</p>       

@@ -123,7 +123,7 @@
       <p class="card-text">•  Pendrive con fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
       <p class="card-text">•  Video del Bacsktage </p>      
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2020</small></p>
     </div>
   </div>
   <div class="card">
@@ -134,7 +134,7 @@
       <p class="card-text">•  10 impresiones 15x21 </p>      
       <p class="card-text">•  Cuadro de 30x40</p>
       <p class="card-text">•  Video del Bacsktage </p>      
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2020</small></p>
     </div>
   </div>
   <div class="card">
@@ -145,7 +145,7 @@
       <p class="card-text">•  Cuadro de 30x40</p>
       <p class="card-text">•  Fotolibro 20x30 de 10 hojas con tapa de cuero</p>
       <p class="card-text">•  Video del Bacsktage </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2020</small></p>
     </div>
   </div>
 </div>

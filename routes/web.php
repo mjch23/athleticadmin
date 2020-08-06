@@ -40,6 +40,14 @@ Route::get('sesioncumple', function () {
     return view('sesioncumple');
 });
 
+Route::get('embarazadas', function () {
+    return view('embarazadas');
+});
+
+Route::get('sesiones', function () {
+    return view('sesiones');
+});
+
 Route::get('dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
