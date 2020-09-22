@@ -103,7 +103,7 @@
     <!--<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Precio%204.jpg" class="card-img-top" alt="...">-->
 
     <div class="embed-responsive embed-responsive-16by9">
-    <video controls controlsList="nodownload" class="embed-responsive-item" src="https://onedrive.live.com/download?cid=547352ECF1ABAC52&resid=547352ECF1ABAC52%211823&authkey=AAyUyQhjwf66FSM"></video>
+    <video controls controlsList="nodownload" class="embed-responsive-item" src="https://onedrive.live.com/embed?cid=547352ECF1ABAC52&resid=547352ECF1ABAC52%211823&authkey=AAyUyQhjwf66FSM"></video>
     </div>
 
     <div class="card-body">
@@ -117,7 +117,7 @@
     <!--<img src="https://storage.lorenafariasfotografia.com.ar/Fiesta_de_15/Precio%205.jpg" class="card-img-top" alt="...">-->
 
         <div class="embed-responsive embed-responsive-16by9">
-    <video controls controlsList="nodownload" class="embed-responsive-item" src="https://onedrive.live.com/download?cid=547352ECF1ABAC52&resid=547352ECF1ABAC52%211822&authkey=AM0XhY2KxC2rxhE"></video>
+    <video controls controlsList="nodownload" class="embed-responsive-item" src="https://onedrive.live.com/embed?cid=547352ECF1ABAC52&resid=547352ECF1ABAC52%211822&authkey=AM0XhY2KxC2rxhE"></video>
     </div>
 
     <div class="card-body">
