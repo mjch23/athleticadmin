@@ -105,7 +105,7 @@
       <h5 class="card-title">Paquete Básico: 3 cuotas de $1200 (1 en la reserva, 1 en la sesión, 1 en la entrega)</h5>
       <p class="card-text">•  Link de descarga con alrededor de 20 fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/10/2020</small></p>
     </div>
   </div>
   <div class="card">
@@ -114,7 +114,7 @@
       <h5 class="card-title">Paquete Especial: 3 cuotas de $1400 (1 en la reserva, 1 en la sesión, 1 en la entrega)</h5>
       <p class="card-text">•  Pendrive con alrededor de 20 fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/10/2020</small></p>
     </div>
   </div>
   <div class="card">
@@ -124,7 +124,7 @@
       <p class="card-text">•  Pendrive con alrededor de 20 fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
       <p class="card-text">•  1 cuadro de 30x40 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2020</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/10/2020</small></p>
     </div>
   </div>
 </div>

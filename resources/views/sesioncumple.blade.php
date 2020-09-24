@@ -102,29 +102,29 @@
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/Precio%201.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Básico: 2 cuotas de $1200 (1 en la reserva, 1 en la sesión)</h5>
+      <h5 class="card-title">Paquete Básico: 2 cuotas de $1400 (1 en la reserva, 1 en la sesión)</h5>
       <p class="card-text">• Link descarga </p> 
       <p class="card-text">• 5 impresiones 15x21 </p>     
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2020</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/10/2020</small></p>
     </div>
   </div>
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/Precio%202.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Especial: 2 cuotas de $1400 (1 en la reserva, 1 en la sesión)</h5>
+      <h5 class="card-title">Paquete Especial: 2 cuotas de $1600 (1 en la reserva, 1 en la sesión)</h5>
       <p class="card-text">• Pendrive con las fotos</p>       
       <p class="card-text">• 5 impresiones 15x21 </p>     
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2020</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/10/2020</small></p>
     </div>
   </div>
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Sesion_de_cumple/Precio%203.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Especial: 2 cuotas de $1700 (1 en la reserva, 1 en la sesión)</h5>
+      <h5 class="card-title">Paquete Especial: 2 cuotas de $2000 (1 en la reserva, 1 en la sesión)</h5>
       <p class="card-text">• Pendrive con las fotos</p>       
       <p class="card-text">• 5 impresiones 15x21 </p> 
       <p class="card-text">• Cuadro de 30x40 </p>     
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 30/09/2020</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/10/2020</small></p>
     </div>
   </div>
 </div>
