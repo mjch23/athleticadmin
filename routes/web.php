@@ -48,6 +48,10 @@ Route::get('sesiones', function () {
     return view('sesiones');
 });
 
+Route::get('emprendedores', function () {
+    return view('emprendedores');
+});
+
 Route::get('dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
