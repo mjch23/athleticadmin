@@ -60,13 +60,71 @@
 
 <div class="card">
 
-<div class="embed-responsive" style="padding-bottom:150%">
-
-  <object data="https://storagelff.nyc3.digitaloceanspaces.com/Sesionesnavidenas/Sesiones%20Naviden%CC%83as%20Presupuesto.pdf" type="application/pdf" width="100%" height="100%"></object>
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesionesnavidenas/Sesiones-Naviden%CC%83as.001.jpeg" class="img-fluid" alt="Responsive image">
 
 </div>
 
+<div class="card">
+
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesionesnavidenas/Sesiones-Naviden%CC%83as.002.jpeg" class="img-fluid" alt="Responsive image">
+
 </div>
+
+<div class="card">
+
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesionesnavidenas/Sesiones-Naviden%CC%83as.003.jpeg" class="img-fluid" alt="Responsive image">
+
+</div>
+
+<div class="card">
+
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesionesnavidenas/Sesiones-Naviden%CC%83as.004.jpeg" class="img-fluid" alt="Responsive image">
+
+</div>
+
+<div class="card">
+
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesionesnavidenas/Sesiones-Naviden%CC%83as.005.jpeg" class="img-fluid" alt="Responsive image">
+
+</div>
+
+<div class="card">
+
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesionesnavidenas/Sesiones-Naviden%CC%83as.006.jpeg" class="img-fluid" alt="Responsive image">
+
+</div>
+
+<div class="card">
+
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesionesnavidenas/Sesiones-Naviden%CC%83as.007.jpeg" class="img-fluid" alt="Responsive image">
+
+</div>
+
+<div class="card">
+
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesionesnavidenas/Sesiones-Naviden%CC%83as.008.jpeg" class="img-fluid" alt="Responsive image">
+
+</div>
+
+<div class="card">
+
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesionesnavidenas/Sesiones-Naviden%CC%83as.009.jpeg" class="img-fluid" alt="Responsive image">
+
+</div>
+
+<div class="card">
+
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesionesnavidenas/Sesiones-Naviden%CC%83as.010.jpeg" class="img-fluid" alt="Responsive image">
+
+</div>
+
+<div class="card">
+
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesionesnavidenas/Sesiones-Naviden%CC%83as.011.jpeg" class="img-fluid" alt="Responsive image">
+
+</div>
+
+
 
 <br>
 <br> 
