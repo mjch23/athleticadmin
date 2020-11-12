@@ -52,6 +52,10 @@ Route::get('emprendedores', function () {
     return view('emprendedores');
 });
 
+Route::get('sesionesnavidenas', function () {
+    return view('sesionesnavidenas');
+});
+
 Route::get('dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
