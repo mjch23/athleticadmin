@@ -114,7 +114,7 @@
 
 <div class="card">
 
-<img src="https://storage.lorenafariasfotografia.com.ar/Sesionesnavidenas/Sesiones-Naviden%CC%83as.010.jpeg" class="img-fluid" alt="Responsive image">
+<img src="https://storage.lorenafariasfotografia.com.ar/Sesionesnavidenas/nueva%20sesion%20naviden%CC%83a.010.jpeg" class="img-fluid" alt="Responsive image">
 
 </div>
 
