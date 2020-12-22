@@ -102,29 +102,29 @@
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Newborn/Servicio1.jpeg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Básico: 3 cuotas de $1200 (1 en la reserva, 1 en la sesión, 1 en la entrega)</h5>
+      <h5 class="card-title">Paquete Básico: 3 cuotas de $1400 (1 en la reserva, 1 en la sesión, 1 en la entrega)</h5>
       <p class="card-text">•  Link de descarga con alrededor de 20 fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/10/2020</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2021</small></p>
     </div>
   </div>
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Newborn/Servicio2.jpeg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Especial: 3 cuotas de $1400 (1 en la reserva, 1 en la sesión, 1 en la entrega)</h5>
+      <h5 class="card-title">Paquete Especial: 3 cuotas de $1600 (1 en la reserva, 1 en la sesión, 1 en la entrega)</h5>
       <p class="card-text">•  Pendrive con alrededor de 20 fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/10/2020</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2021</small></p>
     </div>
   </div>
   <div class="card">
     <img src="https://storage.lorenafariasfotografia.com.ar/Newborn/Servicio3.jpg" class="card-img-top" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Paquete Premium: 3 cuotas de $1600 (1 en la reserva, 1 en la sesión, 1 en la entrega)</h5>
+      <h5 class="card-title">Paquete Premium: 3 cuotas de $2000 (1 en la reserva, 1 en la sesión, 1 en la entrega)</h5>
       <p class="card-text">•  Pendrive con alrededor de 20 fotografías seleccionadas y editadas</p>
       <p class="card-text">•  10 impresiones 15x21 </p>
       <p class="card-text">•  1 cuadro de 30x40 </p>
-      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/10/2020</small></p>
+      <p class="card-text"><small class="text-muted">Precio Válido hasta el 31/03/2021</small></p>
     </div>
   </div>
 </div>
